@@ -1,0 +1,414 @@
+{
+ "groups": [
+  {
+   "channel": "昭和プレイバック",
+   "label": "昭和プレイバック",
+   "code": "showa",
+   "items": [
+    {
+     "no": "238",
+     "title": "編集用",
+     "slug": "showa-238",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-238/"
+    },
+    {
+     "no": "239",
+     "title": "編集用",
+     "slug": "showa-239",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-239/"
+    },
+    {
+     "no": "240",
+     "title": "編集用",
+     "slug": "showa-240",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-240/"
+    },
+    {
+     "no": "241",
+     "title": "編集用",
+     "slug": "showa-241",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-241/"
+    },
+    {
+     "no": "242",
+     "title": "編集用",
+     "slug": "showa-242",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-242/"
+    },
+    {
+     "no": "243",
+     "title": "編集用",
+     "slug": "showa-243",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-243/"
+    },
+    {
+     "no": "244",
+     "title": "編集用",
+     "slug": "showa-244",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-244/"
+    },
+    {
+     "no": "245",
+     "title": "編集用",
+     "slug": "showa-245",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-245/"
+    },
+    {
+     "no": "246",
+     "title": "編集用",
+     "slug": "showa-246",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-246/"
+    },
+    {
+     "no": "247",
+     "title": "編集用",
+     "slug": "showa-247",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-247/"
+    }
+   ]
+  },
+  {
+   "channel": "たぬきの2chお金スレまとめ",
+   "label": "たぬき",
+   "code": "tanuki",
+   "items": [
+    {
+     "no": "91",
+     "title": "091_10年前と今で変わった貯金_完成2",
+     "slug": "tanuki-091",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-091/"
+    },
+    {
+     "no": "92",
+     "title": "092_70代の貯金晒し_完成2",
+     "slug": "tanuki-092",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-092/"
+    },
+    {
+     "no": "93",
+     "title": "093_資産2億到達_完成2",
+     "slug": "tanuki-093",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-093/"
+    },
+    {
+     "no": "94",
+     "title": "094_子有り子無し格差_完成2",
+     "slug": "tanuki-094",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-094/"
+    },
+    {
+     "no": "95",
+     "title": "095_現金派と投資派_完成2",
+     "slug": "tanuki-095",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-095/"
+    },
+    {
+     "no": "96",
+     "title": "096_FIRE5年後_完成2",
+     "slug": "tanuki-096",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-096/"
+    },
+    {
+     "no": "97",
+     "title": "097_年金生活の黒字赤字_完成2",
+     "slug": "tanuki-097",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-097/"
+    },
+    {
+     "no": "98",
+     "title": "098_世帯年収1000万_完成2",
+     "slug": "tanuki-098",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-098/"
+    },
+    {
+     "no": "99",
+     "title": "099_AI理想貯金診断_完成2",
+     "slug": "tanuki-099",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-099/"
+    },
+    {
+     "no": "100",
+     "title": "副業ありなし格差_完成2",
+     "slug": "tanuki-100",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-100/"
+    }
+   ]
+  },
+  {
+   "channel": "恋愛辞典",
+   "label": "恋愛辞典",
+   "code": "renai",
+   "items": [
+    {
+     "no": "61",
+     "title": "061_親の介護が始まった日から夫婦の間で何が変わるのか",
+     "slug": "renai-061",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-061/"
+    },
+    {
+     "no": "62",
+     "title": "062_プロポーズのタイミングを男女はこう見ている",
+     "slug": "renai-062",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-062/"
+    },
+    {
+     "no": "63",
+     "title": "063_更年期に入ってから二人の間で変わること",
+     "slug": "renai-063",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-063/"
+    },
+    {
+     "no": "64",
+     "title": "064_同棲を始めた日から二人の当たり前がずれていく",
+     "slug": "renai-064",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-064/"
+    },
+    {
+     "no": "65",
+     "title": "065_結婚式の準備で二人の素が出る理由",
+     "slug": "renai-065",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-065/"
+    },
+    {
+     "no": "66",
+     "title": "066_名もなき家事に気づく力はあとから育てられる",
+     "slug": "renai-066",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-066/"
+    },
+    {
+     "no": "67",
+     "title": "067_年の差カップルに向けられる視線と二人が実際に見ているもの",
+     "slug": "renai-067",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-067/"
+    },
+    {
+     "no": "68",
+     "title": "068_子どもが独立した日から夫婦の呼び方が変わる",
+     "slug": "renai-068",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-068/"
+    },
+    {
+     "no": "69",
+     "title": "069_寝る前の30分の使い方が男女で正反対",
+     "slug": "renai-069",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-069/"
+    },
+    {
+     "no": "70",
+     "title": "070_還暦を過ぎてから恋愛観がもう一度変わる",
+     "slug": "renai-070",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-070/"
+    }
+   ]
+  },
+  {
+   "channel": "職場の人間関係辞典",
+   "label": "職場の人間関係辞典",
+   "code": "shokuba",
+   "items": [
+    {
+     "no": "11",
+     "title": "011_頑張っているのに評価されない人が見落としている1点",
+     "slug": "shokuba-011",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-011/"
+    },
+    {
+     "no": "12",
+     "title": "012_叱ると伸びる人と叱ると止まる人",
+     "slug": "shokuba-012",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-012/"
+    },
+    {
+     "no": "13",
+     "title": "013_会議で発言しない人がいちばん損をしている",
+     "slug": "shokuba-013",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-013/"
+    },
+    {
+     "no": "14",
+     "title": "014_仲が良すぎる上司と部下がある日崩れる理由",
+     "slug": "shokuba-014",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-014/"
+    },
+    {
+     "no": "15",
+     "title": "015_飲み会に来ない部下を上司はどう見ているか",
+     "slug": "shokuba-015",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-015/"
+    },
+    {
+     "no": "16",
+     "title": "016_辞める人が辞めると言う前に見せていること",
+     "slug": "shokuba-016",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-016/"
+    },
+    {
+     "no": "17",
+     "title": "017_残業している人が評価される職場で何が起きているか",
+     "slug": "shokuba-017",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-017/"
+    },
+    {
+     "no": "18",
+     "title": "018_能力は同じなのに片方だけ相談される理由",
+     "slug": "shokuba-018",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-018/"
+    },
+    {
+     "no": "19",
+     "title": "019_教え方がうまい人が手順より先に渡しているもの",
+     "slug": "shokuba-019",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-019/"
+    },
+    {
+     "no": "20",
+     "title": "020_若手を注意できなくなった上司が代わりにやっていること",
+     "slug": "shokuba-020",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-020/"
+    },
+    {
+     "no": "21",
+     "title": "021_指導とパワハラの境目はどこで変わったのか",
+     "slug": "shokuba-021",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-021/"
+    }
+   ]
+  },
+  {
+   "channel": "宇宙に置いてきたもの",
+   "label": "宇宙に置いてきたもの",
+   "code": "uchu",
+   "items": [
+    {
+     "no": "ep001.ymmp",
+     "title": "ep001",
+     "slug": "uchu-ep001",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep001/"
+    },
+    {
+     "no": "ep002.ymmp",
+     "title": "ep002",
+     "slug": "uchu-ep002",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep002/"
+    },
+    {
+     "no": "ep003.ymmp",
+     "title": "ep003",
+     "slug": "uchu-ep003",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep003/"
+    },
+    {
+     "no": "ep004.ymmp",
+     "title": "ep004",
+     "slug": "uchu-ep004",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep004/"
+    },
+    {
+     "no": "ep005.ymmp",
+     "title": "ep005",
+     "slug": "uchu-ep005",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep005/"
+    },
+    {
+     "no": "ep006.ymmp",
+     "title": "ep006",
+     "slug": "uchu-ep006",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep006/"
+    },
+    {
+     "no": "ep007.ymmp",
+     "title": "ep007",
+     "slug": "uchu-ep007",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep007/"
+    },
+    {
+     "no": "ep008.ymmp",
+     "title": "ep008",
+     "slug": "uchu-ep008",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep008/"
+    },
+    {
+     "no": "ep009.ymmp",
+     "title": "ep009",
+     "slug": "uchu-ep009",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep009/"
+    },
+    {
+     "no": "ep010.ymmp",
+     "title": "ep010",
+     "slug": "uchu-ep010",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep010/"
+    }
+   ]
+  },
+  {
+   "channel": "46億年の災害史",
+   "label": "46億年の災害史",
+   "code": "saigai",
+   "items": [
+    {
+     "no": "ep001.ymmp",
+     "title": "ep001",
+     "slug": "saigai-ep001",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep001/"
+    },
+    {
+     "no": "ep002.ymmp",
+     "title": "ep002",
+     "slug": "saigai-ep002",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep002/"
+    },
+    {
+     "no": "ep003.ymmp",
+     "title": "ep003",
+     "slug": "saigai-ep003",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep003/"
+    },
+    {
+     "no": "ep004.ymmp",
+     "title": "ep004",
+     "slug": "saigai-ep004",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep004/"
+    },
+    {
+     "no": "ep005.ymmp",
+     "title": "ep005",
+     "slug": "saigai-ep005",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep005/"
+    },
+    {
+     "no": "ep006.ymmp",
+     "title": "ep006",
+     "slug": "saigai-ep006",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep006/"
+    },
+    {
+     "no": "ep007.ymmp",
+     "title": "ep007",
+     "slug": "saigai-ep007",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep007/"
+    },
+    {
+     "no": "ep008.ymmp",
+     "title": "ep008",
+     "slug": "saigai-ep008",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep008/"
+    },
+    {
+     "no": "ep009.ymmp",
+     "title": "ep009",
+     "slug": "saigai-ep009",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep009/"
+    },
+    {
+     "no": "ep010.ymmp",
+     "title": "ep010",
+     "slug": "saigai-ep010",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep010/"
+    }
+   ]
+  }
+ ],
+ "total": 61,
+ "ready": 61
+}
