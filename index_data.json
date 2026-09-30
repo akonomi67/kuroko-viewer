@@ -429,13 +429,13 @@
      "no": "3",
      "title": "003_給料の交渉はなぜ切り出せないのか",
      "slug": "yokubou-003",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-003/"
     },
     {
      "no": "4",
      "title": "004_スマホで賭けると貯金はどこへ消えるのか",
      "slug": "yokubou-004",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-004/"
     },
     {
      "no": "5",
@@ -477,5 +477,5 @@
   }
  ],
  "total": 71,
- "ready": 63
+ "ready": 65
 }
