@@ -407,8 +407,75 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep010/"
     }
    ]
+  },
+  {
+   "channel": "欲望の方程式",
+   "label": "欲望の方程式",
+   "code": "yokubou",
+   "items": [
+    {
+     "no": "1",
+     "title": "001_後払いはなぜ借金に見えないのか",
+     "slug": "yokubou-001",
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-001/"
+    },
+    {
+     "no": "2",
+     "title": "002_使っていないサブスクが売上を倍にする理由",
+     "slug": "yokubou-002",
+     "url": null
+    },
+    {
+     "no": "3",
+     "title": "003_給料の交渉はなぜ切り出せないのか",
+     "slug": "yokubou-003",
+     "url": null
+    },
+    {
+     "no": "4",
+     "title": "004_スマホで賭けると貯金はどこへ消えるのか",
+     "slug": "yokubou-004",
+     "url": null
+    },
+    {
+     "no": "5",
+     "title": "005_スマホ払いだと使いすぎるは本当か",
+     "slug": "yokubou-005",
+     "url": null
+    },
+    {
+     "no": "6",
+     "title": "006_給料そのまま週休3日にしたら何が起きたか",
+     "slug": "yokubou-006",
+     "url": null
+    },
+    {
+     "no": "7",
+     "title": "007_宝くじが2等を上げても売れないのはなぜか",
+     "slug": "yokubou-007",
+     "url": null
+    },
+    {
+     "no": "8",
+     "title": "008_AIは新人の席から減らしているのか",
+     "slug": "yokubou-008",
+     "url": null
+    },
+    {
+     "no": "9",
+     "title": "009_ゲーム課金の6割は1割の子が払っていた",
+     "slug": "yokubou-009",
+     "url": null
+    },
+    {
+     "no": "10",
+     "title": "010_求人に給料を書かせたら給料が上がった",
+     "slug": "yokubou-010",
+     "url": null
+    }
+   ]
   }
  ],
- "total": 61,
- "ready": 61
+ "total": 71,
+ "ready": 62
 }
