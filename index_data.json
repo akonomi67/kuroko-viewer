@@ -338,6 +338,66 @@
      "title": "ep010",
      "slug": "uchu-ep010",
      "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep010/"
+    },
+    {
+     "no": "ep011.ymmp",
+     "title": "ep011",
+     "slug": "uchu-ep011",
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep011/"
+    },
+    {
+     "no": "ep012.ymmp",
+     "title": "ep012",
+     "slug": "uchu-ep012",
+     "url": null
+    },
+    {
+     "no": "ep013.ymmp",
+     "title": "ep013",
+     "slug": "uchu-ep013",
+     "url": null
+    },
+    {
+     "no": "ep014.ymmp",
+     "title": "ep014",
+     "slug": "uchu-ep014",
+     "url": null
+    },
+    {
+     "no": "ep015.ymmp",
+     "title": "ep015",
+     "slug": "uchu-ep015",
+     "url": null
+    },
+    {
+     "no": "ep016.ymmp",
+     "title": "ep016",
+     "slug": "uchu-ep016",
+     "url": null
+    },
+    {
+     "no": "ep017.ymmp",
+     "title": "ep017",
+     "slug": "uchu-ep017",
+     "url": null
+    },
+    {
+     "no": "ep018.ymmp",
+     "title": "ep018",
+     "slug": "uchu-ep018",
+     "url": null
+    },
+    {
+     "no": "ep019.ymmp",
+     "title": "ep019",
+     "slug": "uchu-ep019",
+     "url": null
+    },
+    {
+     "no": "ep020.ymmp",
+     "title": "ep020",
+     "slug": "uchu-ep020",
+     "url": null
     }
    ]
   },
@@ -405,6 +465,66 @@
      "title": "ep010",
      "slug": "saigai-ep010",
      "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep010/"
+    },
+    {
+     "no": "ep011.ymmp",
+     "title": "ep011",
+     "slug": "saigai-ep011",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep011/"
+    },
+    {
+     "no": "ep012.ymmp",
+     "title": "ep012",
+     "slug": "saigai-ep012",
+     "url": null
+    },
+    {
+     "no": "ep013.ymmp",
+     "title": "ep013",
+     "slug": "saigai-ep013",
+     "url": null
+    },
+    {
+     "no": "ep014.ymmp",
+     "title": "ep014",
+     "slug": "saigai-ep014",
+     "url": null
+    },
+    {
+     "no": "ep015.ymmp",
+     "title": "ep015",
+     "slug": "saigai-ep015",
+     "url": null
+    },
+    {
+     "no": "ep016.ymmp",
+     "title": "ep016",
+     "slug": "saigai-ep016",
+     "url": null
+    },
+    {
+     "no": "ep017.ymmp",
+     "title": "ep017",
+     "slug": "saigai-ep017",
+     "url": null
+    },
+    {
+     "no": "ep018.ymmp",
+     "title": "ep018",
+     "slug": "saigai-ep018",
+     "url": null
+    },
+    {
+     "no": "ep019.ymmp",
+     "title": "ep019",
+     "slug": "saigai-ep019",
+     "url": null
+    },
+    {
+     "no": "ep020.ymmp",
+     "title": "ep020",
+     "slug": "saigai-ep020",
+     "url": null
     }
    ]
   },
@@ -413,12 +533,6 @@
    "label": "欲望の方程式",
    "code": "yokubou",
    "items": [
-    {
-     "no": "1",
-     "title": "001_後払いはなぜ借金に見えないのか",
-     "slug": "yokubou-001",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-001/"
-    },
     {
      "no": "2",
      "title": "002_使っていないサブスクが売上を倍にする理由",
@@ -476,6 +590,6 @@
    ]
   }
  ],
- "total": 71,
- "ready": 71
+ "total": 90,
+ "ready": 72
 }
