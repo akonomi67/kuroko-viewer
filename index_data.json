@@ -349,7 +349,7 @@
      "no": "ep012.ymmp",
      "title": "ep012",
      "slug": "uchu-ep012",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep012/"
     },
     {
      "no": "ep013.ymmp",
@@ -476,7 +476,7 @@
      "no": "ep012.ymmp",
      "title": "ep012",
      "slug": "saigai-ep012",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep012/"
     },
     {
      "no": "ep013.ymmp",
@@ -591,5 +591,5 @@
   }
  ],
  "total": 90,
- "ready": 72
+ "ready": 74
 }
