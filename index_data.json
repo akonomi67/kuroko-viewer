@@ -73,30 +73,6 @@
    "code": "tanuki",
    "items": [
     {
-     "no": "91",
-     "title": "091_10年前と今で変わった貯金_完成2",
-     "slug": "tanuki-091",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-091/"
-    },
-    {
-     "no": "92",
-     "title": "092_70代の貯金晒し_完成2",
-     "slug": "tanuki-092",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-092/"
-    },
-    {
-     "no": "93",
-     "title": "093_資産2億到達_完成2",
-     "slug": "tanuki-093",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-093/"
-    },
-    {
-     "no": "94",
-     "title": "094_子有り子無し格差_完成2",
-     "slug": "tanuki-094",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-094/"
-    },
-    {
      "no": "95",
      "title": "095_現金派と投資派_完成2",
      "slug": "tanuki-095",
@@ -271,6 +247,60 @@
      "title": "021_指導とパワハラの境目はどこで変わったのか",
      "slug": "shokuba-021",
      "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-021/"
+    },
+    {
+     "no": "22",
+     "title": "022_職場で信用を落とす小さな行動ワースト10",
+     "slug": "shokuba-022",
+     "url": null
+    },
+    {
+     "no": "23",
+     "title": "023_円満に退職する人がやらない7つのこと",
+     "slug": "shokuba-023",
+     "url": null
+    },
+    {
+     "no": "24",
+     "title": "024_年上の部下に悩む上司から届いた5つの相談",
+     "slug": "shokuba-024",
+     "url": null
+    },
+    {
+     "no": "25",
+     "title": "025_上司の愚痴に相づちを打った部下が半年後に失ったもの",
+     "slug": "shokuba-025",
+     "url": null
+    },
+    {
+     "no": "26",
+     "title": "026_職場の人間関係に疲れていないか数える10のチェック",
+     "slug": "shokuba-026",
+     "url": null
+    },
+    {
+     "no": "27",
+     "title": "027_苦手な上司ができる心理学の理由6つ",
+     "slug": "shokuba-027",
+     "url": null
+    },
+    {
+     "no": "28",
+     "title": "028_昇進を打診された部下が返事の前に確かめる5つ",
+     "slug": "shokuba-028",
+     "url": null
+    },
+    {
+     "no": "29",
+     "title": "029_テレワークの上司と部下あるある12選",
+     "slug": "shokuba-029",
+     "url": null
+    },
+    {
+     "no": "30",
+     "title": "030_職場で言ってはいけない悪気のない一言7選",
+     "slug": "shokuba-030",
+     "url": null
     }
    ]
   },
@@ -407,12 +437,6 @@
    "code": "saigai",
    "items": [
     {
-     "no": "ep001.ymmp",
-     "title": "ep001",
-     "slug": "saigai-ep001",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep001/"
-    },
-    {
      "no": "ep002.ymmp",
      "title": "ep002",
      "slug": "saigai-ep002",
@@ -534,12 +558,6 @@
    "code": "yokubou",
    "items": [
     {
-     "no": "2",
-     "title": "002_使っていないサブスクが売上を倍にする理由",
-     "slug": "yokubou-002",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-002/"
-    },
-    {
      "no": "3",
      "title": "003_給料の交渉はなぜ切り出せないのか",
      "slug": "yokubou-003",
@@ -586,10 +604,70 @@
      "title": "010_求人に給料を書かせたら給料が上がった",
      "slug": "yokubou-010",
      "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-010/"
+    },
+    {
+     "no": "11",
+     "title": "011_毎月1000ドルを3年もらった人は働くのをやめたのか",
+     "slug": "yokubou-011",
+     "url": null
+    },
+    {
+     "no": "12",
+     "title": "012_値上げより中身を減らすほうが客は離れにくい",
+     "slug": "yokubou-012",
+     "url": null
+    },
+    {
+     "no": "13",
+     "title": "013_マッチングアプリの両思いは結局似た者どうしだった",
+     "slug": "yokubou-013",
+     "url": null
+    },
+    {
+     "no": "14",
+     "title": "014_出社命令のあと会社を去ったのは誰か",
+     "slug": "yokubou-014",
+     "url": null
+    },
+    {
+     "no": "15",
+     "title": "015_やせ薬を使う家はスーパーで何を買わなくなったか",
+     "slug": "yokubou-015",
+     "url": null
+    },
+    {
+     "no": "16",
+     "title": "016_損するのがいやな気持ちは得の何倍か",
+     "slug": "yokubou-016",
+     "url": null
+    },
+    {
+     "no": "17",
+     "title": "017_AIに話を聞いてもらうとさびしさは減るのか",
+     "slug": "yokubou-017",
+     "url": null
+    },
+    {
+     "no": "18",
+     "title": "018_借金を帳消しにしても心は軽くならなかった",
+     "slug": "yokubou-018",
+     "url": null
+    },
+    {
+     "no": "19",
+     "title": "019_スマホを賢くない電話にした2週間",
+     "slug": "yokubou-019",
+     "url": null
+    },
+    {
+     "no": "20",
+     "title": "020_週52時間以上働く人の脳に見つかった19%の違い",
+     "slug": "yokubou-020",
+     "url": null
     }
    ]
   }
  ],
- "total": 90,
- "ready": 82
+ "total": 103,
+ "ready": 76
 }
