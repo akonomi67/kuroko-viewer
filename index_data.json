@@ -68,49 +68,6 @@
    ]
   },
   {
-   "channel": "たぬきの2chお金スレまとめ",
-   "label": "たぬき",
-   "code": "tanuki",
-   "items": [
-    {
-     "no": "95",
-     "title": "095_現金派と投資派_完成2",
-     "slug": "tanuki-095",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-095/"
-    },
-    {
-     "no": "96",
-     "title": "096_FIRE5年後_完成2",
-     "slug": "tanuki-096",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-096/"
-    },
-    {
-     "no": "97",
-     "title": "097_年金生活の黒字赤字_完成2",
-     "slug": "tanuki-097",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-097/"
-    },
-    {
-     "no": "98",
-     "title": "098_世帯年収1000万_完成2",
-     "slug": "tanuki-098",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-098/"
-    },
-    {
-     "no": "99",
-     "title": "099_AI理想貯金診断_完成2",
-     "slug": "tanuki-099",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-099/"
-    },
-    {
-     "no": "100",
-     "title": "副業ありなし格差_完成2",
-     "slug": "tanuki-100",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-100/"
-    }
-   ]
-  },
-  {
    "channel": "恋愛辞典",
    "label": "恋愛辞典",
    "code": "renai",
@@ -558,18 +515,6 @@
    "code": "yokubou",
    "items": [
     {
-     "no": "3",
-     "title": "003_給料の交渉はなぜ切り出せないのか",
-     "slug": "yokubou-003",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-003/"
-    },
-    {
-     "no": "4",
-     "title": "004_スマホで賭けると貯金はどこへ消えるのか",
-     "slug": "yokubou-004",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-004/"
-    },
-    {
      "no": "5",
      "title": "005_スマホ払いだと使いすぎるは本当か",
      "slug": "yokubou-005",
@@ -668,6 +613,6 @@
    ]
   }
  ],
- "total": 103,
- "ready": 76
+ "total": 95,
+ "ready": 68
 }
