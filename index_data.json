@@ -146,12 +146,6 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-019/"
     },
     {
-     "no": "20",
-     "title": "020_若手を注意できなくなった上司が代わりにやっていること",
-     "slug": "shokuba-020",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-020/"
-    },
-    {
      "no": "21",
      "title": "021_指導とパワハラの境目はどこで変わったのか",
      "slug": "shokuba-021",
@@ -553,6 +547,6 @@
    ]
   }
  ],
- "total": 85,
- "ready": 75
+ "total": 84,
+ "ready": 74
 }
