@@ -140,24 +140,6 @@
    "code": "shokuba",
    "items": [
     {
-     "no": "11",
-     "title": "011_頑張っているのに評価されない人が見落としている1点",
-     "slug": "shokuba-011",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-011/"
-    },
-    {
-     "no": "12",
-     "title": "012_叱ると伸びる人と叱ると止まる人",
-     "slug": "shokuba-012",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-012/"
-    },
-    {
-     "no": "13",
-     "title": "013_会議で発言しない人がいちばん損をしている",
-     "slug": "shokuba-013",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-013/"
-    },
-    {
      "no": "19",
      "title": "019_教え方がうまい人が手順より先に渡しているもの",
      "slug": "shokuba-019",
@@ -571,6 +553,6 @@
    ]
   }
  ],
- "total": 88,
- "ready": 78
+ "total": 85,
+ "ready": 75
 }
