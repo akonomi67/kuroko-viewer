@@ -158,36 +158,6 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-013/"
     },
     {
-     "no": "14",
-     "title": "014_仲が良すぎる上司と部下がある日崩れる理由",
-     "slug": "shokuba-014",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-014/"
-    },
-    {
-     "no": "15",
-     "title": "015_飲み会に来ない部下を上司はどう見ているか",
-     "slug": "shokuba-015",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-015/"
-    },
-    {
-     "no": "16",
-     "title": "016_辞める人が辞めると言う前に見せていること",
-     "slug": "shokuba-016",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-016/"
-    },
-    {
-     "no": "17",
-     "title": "017_残業している人が評価される職場で何が起きているか",
-     "slug": "shokuba-017",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-017/"
-    },
-    {
-     "no": "18",
-     "title": "018_能力は同じなのに片方だけ相談される理由",
-     "slug": "shokuba-018",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-018/"
-    },
-    {
      "no": "19",
      "title": "019_教え方がうまい人が手順より先に渡しているもの",
      "slug": "shokuba-019",
@@ -342,49 +312,49 @@
      "no": "ep013.ymmp",
      "title": "ep013",
      "slug": "uchu-ep013",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep013/"
     },
     {
      "no": "ep014.ymmp",
      "title": "ep014",
      "slug": "uchu-ep014",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep014/"
     },
     {
      "no": "ep015.ymmp",
      "title": "ep015",
      "slug": "uchu-ep015",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep015/"
     },
     {
      "no": "ep016.ymmp",
      "title": "ep016",
      "slug": "uchu-ep016",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep016/"
     },
     {
      "no": "ep017.ymmp",
      "title": "ep017",
      "slug": "uchu-ep017",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep017/"
     },
     {
      "no": "ep018.ymmp",
      "title": "ep018",
      "slug": "uchu-ep018",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep018/"
     },
     {
      "no": "ep019.ymmp",
      "title": "ep019",
      "slug": "uchu-ep019",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep019/"
     },
     {
      "no": "ep020.ymmp",
      "title": "ep020",
      "slug": "uchu-ep020",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep020/"
     }
    ]
   },
@@ -515,18 +485,6 @@
    "code": "yokubou",
    "items": [
     {
-     "no": "5",
-     "title": "005_スマホ払いだと使いすぎるは本当か",
-     "slug": "yokubou-005",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-005/"
-    },
-    {
-     "no": "6",
-     "title": "006_給料そのまま週休3日にしたら何が起きたか",
-     "slug": "yokubou-006",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-006/"
-    },
-    {
      "no": "7",
      "title": "007_宝くじが2等を上げても売れないのはなぜか",
      "slug": "yokubou-007",
@@ -613,6 +571,6 @@
    ]
   }
  ],
- "total": 95,
- "ready": 68
+ "total": 88,
+ "ready": 69
 }
