@@ -140,18 +140,6 @@
    "code": "shokuba",
    "items": [
     {
-     "no": "19",
-     "title": "019_教え方がうまい人が手順より先に渡しているもの",
-     "slug": "shokuba-019",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-019/"
-    },
-    {
-     "no": "21",
-     "title": "021_指導とパワハラの境目はどこで変わったのか",
-     "slug": "shokuba-021",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-021/"
-    },
-    {
      "no": "22",
      "title": "022_職場で信用を落とす小さな行動ワースト10",
      "slug": "shokuba-022",
@@ -461,24 +449,6 @@
    "code": "yokubou",
    "items": [
     {
-     "no": "7",
-     "title": "007_宝くじが2等を上げても売れないのはなぜか",
-     "slug": "yokubou-007",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-007/"
-    },
-    {
-     "no": "8",
-     "title": "008_AIは新人の席から減らしているのか",
-     "slug": "yokubou-008",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-008/"
-    },
-    {
-     "no": "9",
-     "title": "009_ゲーム課金の6割は1割の子が払っていた",
-     "slug": "yokubou-009",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-009/"
-    },
-    {
      "no": "10",
      "title": "010_求人に給料を書かせたら給料が上がった",
      "slug": "yokubou-010",
@@ -547,6 +517,6 @@
    ]
   }
  ],
- "total": 84,
- "ready": 74
+ "total": 79,
+ "ready": 69
 }
