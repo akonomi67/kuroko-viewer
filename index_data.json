@@ -68,19 +68,6 @@
    ]
   },
   {
-   "channel": "恋愛辞典",
-   "label": "恋愛辞典",
-   "code": "renai",
-   "items": [
-    {
-     "no": "70",
-     "title": "070_還暦を過ぎてから恋愛観がもう一度変わる",
-     "slug": "renai-070",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-070/"
-    }
-   ]
-  },
-  {
    "channel": "職場の人間関係辞典",
    "label": "職場の人間関係辞典",
    "code": "shokuba",
@@ -409,6 +396,6 @@
    ]
   }
  ],
- "total": 61,
- "ready": 51
+ "total": 60,
+ "ready": 50
 }
