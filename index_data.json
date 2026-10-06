@@ -73,30 +73,6 @@
    "code": "renai",
    "items": [
     {
-     "no": "66",
-     "title": "066_名もなき家事に気づく力はあとから育てられる",
-     "slug": "renai-066",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-066/"
-    },
-    {
-     "no": "67",
-     "title": "067_年の差カップルに向けられる視線と二人が実際に見ているもの",
-     "slug": "renai-067",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-067/"
-    },
-    {
-     "no": "68",
-     "title": "068_子どもが独立した日から夫婦の呼び方が変わる",
-     "slug": "renai-068",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-068/"
-    },
-    {
-     "no": "69",
-     "title": "069_寝る前の30分の使い方が男女で正反対",
-     "slug": "renai-069",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-069/"
-    },
-    {
      "no": "70",
      "title": "070_還暦を過ぎてから恋愛観がもう一度変わる",
      "slug": "renai-070",
@@ -433,6 +409,6 @@
    ]
   }
  ],
- "total": 65,
- "ready": 55
+ "total": 61,
+ "ready": 51
 }
