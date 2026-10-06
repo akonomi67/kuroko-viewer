@@ -73,36 +73,6 @@
    "code": "renai",
    "items": [
     {
-     "no": "61",
-     "title": "061_親の介護が始まった日から夫婦の間で何が変わるのか",
-     "slug": "renai-061",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-061/"
-    },
-    {
-     "no": "62",
-     "title": "062_プロポーズのタイミングを男女はこう見ている",
-     "slug": "renai-062",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-062/"
-    },
-    {
-     "no": "63",
-     "title": "063_更年期に入ってから二人の間で変わること",
-     "slug": "renai-063",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-063/"
-    },
-    {
-     "no": "64",
-     "title": "064_同棲を始めた日から二人の当たり前がずれていく",
-     "slug": "renai-064",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-064/"
-    },
-    {
-     "no": "65",
-     "title": "065_結婚式の準備で二人の素が出る理由",
-     "slug": "renai-065",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-065/"
-    },
-    {
      "no": "66",
      "title": "066_名もなき家事に気づく力はあとから育てられる",
      "slug": "renai-066",
@@ -328,60 +298,6 @@
    "code": "saigai",
    "items": [
     {
-     "no": "ep002.ymmp",
-     "title": "ep002",
-     "slug": "saigai-ep002",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep002/"
-    },
-    {
-     "no": "ep003.ymmp",
-     "title": "ep003",
-     "slug": "saigai-ep003",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep003/"
-    },
-    {
-     "no": "ep004.ymmp",
-     "title": "ep004",
-     "slug": "saigai-ep004",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep004/"
-    },
-    {
-     "no": "ep005.ymmp",
-     "title": "ep005",
-     "slug": "saigai-ep005",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep005/"
-    },
-    {
-     "no": "ep006.ymmp",
-     "title": "ep006",
-     "slug": "saigai-ep006",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep006/"
-    },
-    {
-     "no": "ep007.ymmp",
-     "title": "ep007",
-     "slug": "saigai-ep007",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep007/"
-    },
-    {
-     "no": "ep008.ymmp",
-     "title": "ep008",
-     "slug": "saigai-ep008",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep008/"
-    },
-    {
-     "no": "ep009.ymmp",
-     "title": "ep009",
-     "slug": "saigai-ep009",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep009/"
-    },
-    {
-     "no": "ep010.ymmp",
-     "title": "ep010",
-     "slug": "saigai-ep010",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep010/"
-    },
-    {
      "no": "ep011.ymmp",
      "title": "ep011",
      "slug": "saigai-ep011",
@@ -517,6 +433,6 @@
    ]
   }
  ],
- "total": 79,
- "ready": 69
+ "total": 65,
+ "ready": 55
 }
