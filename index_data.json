@@ -6,30 +6,6 @@
    "code": "showa",
    "items": [
     {
-     "no": "240",
-     "title": "編集用",
-     "slug": "showa-240",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-240/"
-    },
-    {
-     "no": "241",
-     "title": "編集用",
-     "slug": "showa-241",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-241/"
-    },
-    {
-     "no": "242",
-     "title": "編集用",
-     "slug": "showa-242",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-242/"
-    },
-    {
-     "no": "243",
-     "title": "編集用",
-     "slug": "showa-243",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-243/"
-    },
-    {
      "no": "244",
      "title": "編集用",
      "slug": "showa-244",
@@ -325,7 +301,7 @@
      "no": "11",
      "title": "011_毎月1000ドルを3年もらった人は働くのをやめたのか",
      "slug": "yokubou-011",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-011/"
     },
     {
      "no": "12",
@@ -384,6 +360,6 @@
    ]
   }
  ],
- "total": 58,
- "ready": 48
+ "total": 54,
+ "ready": 45
 }
