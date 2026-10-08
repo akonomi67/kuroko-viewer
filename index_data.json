@@ -292,12 +292,6 @@
    "code": "yokubou",
    "items": [
     {
-     "no": "10",
-     "title": "010_求人に給料を書かせたら給料が上がった",
-     "slug": "yokubou-010",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-010/"
-    },
-    {
      "no": "11",
      "title": "011_毎月1000ドルを3年もらった人は働くのをやめたのか",
      "slug": "yokubou-011",
@@ -360,6 +354,6 @@
    ]
   }
  ],
- "total": 54,
- "ready": 54
+ "total": 53,
+ "ready": 53
 }
