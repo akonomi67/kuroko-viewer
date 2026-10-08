@@ -1,33 +1,69 @@
 {
  "groups": [
   {
-   "channel": "昭和プレイバック",
-   "label": "昭和プレイバック",
-   "code": "showa",
+   "channel": "たぬきの2chお金スレまとめ",
+   "label": "たぬき",
+   "code": "tanuki",
    "items": [
     {
-     "no": "244",
-     "title": "編集用",
-     "slug": "showa-244",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-244/"
+     "no": "101",
+     "title": "ゆとり世代の分かれ道_完成2",
+     "slug": "tanuki-101",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-101/"
     },
     {
-     "no": "245",
-     "title": "編集用",
-     "slug": "showa-245",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-245/"
+     "no": "102",
+     "title": "同期入社20年の資産差_完成2",
+     "slug": "tanuki-102",
+     "url": null
     },
     {
-     "no": "246",
-     "title": "編集用",
-     "slug": "showa-246",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-246/"
+     "no": "103",
+     "title": "新NISA3年目_完成2",
+     "slug": "tanuki-103",
+     "url": null
     },
     {
-     "no": "247",
-     "title": "編集用",
-     "slug": "showa-247",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-247/"
+     "no": "104",
+     "title": "年金早め遅らせ_完成2",
+     "slug": "tanuki-104",
+     "url": null
+    },
+    {
+     "no": "105",
+     "title": "修繕積立金値上げ_完成2",
+     "slug": "tanuki-105",
+     "url": null
+    },
+    {
+     "no": "106",
+     "title": "結婚前の貯金_完成2",
+     "slug": "tanuki-106",
+     "url": null
+    },
+    {
+     "no": "107",
+     "title": "独身40代の資産晒し_完成2",
+     "slug": "tanuki-107",
+     "url": null
+    },
+    {
+     "no": "108",
+     "title": "親からの援助晒し_完成2",
+     "slug": "tanuki-108",
+     "url": null
+    },
+    {
+     "no": "109",
+     "title": "残クレの残りと貯金_完成2",
+     "slug": "tanuki-109",
+     "url": null
+    },
+    {
+     "no": "110",
+     "title": "貯金100万の壁_完成2",
+     "slug": "tanuki-110",
+     "url": null
     }
    ]
   },
@@ -36,24 +72,6 @@
    "label": "職場の人間関係辞典",
    "code": "shokuba",
    "items": [
-    {
-     "no": "22",
-     "title": "022_職場で信用を落とす小さな行動ワースト10",
-     "slug": "shokuba-022",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-022/"
-    },
-    {
-     "no": "23",
-     "title": "023_円満に退職する人がやらない7つのこと",
-     "slug": "shokuba-023",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-023/"
-    },
-    {
-     "no": "24",
-     "title": "024_年上の部下に悩む上司から届いた5つの相談",
-     "slug": "shokuba-024",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-024/"
-    },
     {
      "no": "25",
      "title": "025_上司の愚痴に相づちを打った部下が半年後に失ったもの",
@@ -354,6 +372,6 @@
    ]
   }
  ],
- "total": 53,
- "ready": 53
+ "total": 56,
+ "ready": 47
 }
