@@ -9,7 +9,7 @@
      "no": "108",
      "title": "編集用",
      "slug": "jiken-108",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-108/"
+     "url": null
     },
     {
      "no": "111",
@@ -34,7 +34,7 @@
      "no": "251",
      "title": "編集用",
      "slug": "showa-251",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-251/"
     },
     {
      "no": "252",
@@ -53,6 +53,12 @@
      "title": "編集用",
      "slug": "showa-258",
      "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-258/"
+    },
+    {
+     "no": "259",
+     "title": "編集用",
+     "slug": "showa-259",
+     "url": null
     }
    ]
   },
@@ -428,6 +434,6 @@
    ]
   }
  ],
- "total": 63,
+ "total": 64,
  "ready": 60
 }
