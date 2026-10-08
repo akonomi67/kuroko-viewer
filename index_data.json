@@ -6,6 +6,12 @@
    "code": "jiken",
    "items": [
     {
+     "no": "106",
+     "title": "編集用",
+     "slug": "jiken-106",
+     "url": null
+    },
+    {
      "no": "107",
      "title": "編集用",
      "slug": "jiken-107",
@@ -470,6 +476,6 @@
    ]
   }
  ],
- "total": 70,
+ "total": 71,
  "ready": 67
 }
