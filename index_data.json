@@ -1,6 +1,62 @@
 {
  "groups": [
   {
+   "channel": "ゆっくり事件クロニクル",
+   "label": "事件クロニクル",
+   "code": "jiken",
+   "items": [
+    {
+     "no": "108",
+     "title": "編集用",
+     "slug": "jiken-108",
+     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-108/"
+    },
+    {
+     "no": "111",
+     "title": "編集用",
+     "slug": "jiken-111",
+     "url": null
+    },
+    {
+     "no": "115",
+     "title": "編集用",
+     "slug": "jiken-115",
+     "url": null
+    }
+   ]
+  },
+  {
+   "channel": "昭和プレイバック",
+   "label": "昭和プレイバック",
+   "code": "showa",
+   "items": [
+    {
+     "no": "251",
+     "title": "編集用",
+     "slug": "showa-251",
+     "url": null
+    },
+    {
+     "no": "252",
+     "title": "編集用",
+     "slug": "showa-252",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-252/"
+    },
+    {
+     "no": "255",
+     "title": "編集用",
+     "slug": "showa-255",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-255/"
+    },
+    {
+     "no": "258",
+     "title": "編集用",
+     "slug": "showa-258",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-258/"
+    }
+   ]
+  },
+  {
    "channel": "たぬきの2chお金スレまとめ",
    "label": "たぬき",
    "code": "tanuki",
@@ -372,6 +428,6 @@
    ]
   }
  ],
- "total": 56,
- "ready": 56
+ "total": 63,
+ "ready": 60
 }
