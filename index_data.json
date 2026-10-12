@@ -220,113 +220,10 @@
    ]
   },
   {
-   "channel": "職場の人間関係辞典",
-   "label": "職場の人間関係辞典",
-   "code": "shokuba",
-   "items": [
-    {
-     "no": "25",
-     "title": "025_上司の愚痴に相づちを打った部下が半年後に失ったもの",
-     "slug": "shokuba-025",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-025/"
-    },
-    {
-     "no": "26",
-     "title": "026_職場の人間関係に疲れていないか数える10のチェック",
-     "slug": "shokuba-026",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-026/"
-    },
-    {
-     "no": "27",
-     "title": "027_苦手な上司ができる心理学の理由6つ",
-     "slug": "shokuba-027",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-027/"
-    },
-    {
-     "no": "28",
-     "title": "028_昇進を打診された部下が返事の前に確かめる5つ",
-     "slug": "shokuba-028",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-028/"
-    },
-    {
-     "no": "29",
-     "title": "029_テレワークの上司と部下あるある12選",
-     "slug": "shokuba-029",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-029/"
-    },
-    {
-     "no": "30",
-     "title": "030_職場で言ってはいけない悪気のない一言7選",
-     "slug": "shokuba-030",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-030/"
-    }
-   ]
-  },
-  {
    "channel": "宇宙に置いてきたもの",
    "label": "宇宙に置いてきたもの",
    "code": "uchu",
    "items": [
-    {
-     "no": "ep001.ymmp",
-     "title": "ep001",
-     "slug": "uchu-ep001",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep001/"
-    },
-    {
-     "no": "ep002.ymmp",
-     "title": "ep002",
-     "slug": "uchu-ep002",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep002/"
-    },
-    {
-     "no": "ep003.ymmp",
-     "title": "ep003",
-     "slug": "uchu-ep003",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep003/"
-    },
-    {
-     "no": "ep004.ymmp",
-     "title": "ep004",
-     "slug": "uchu-ep004",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep004/"
-    },
-    {
-     "no": "ep005.ymmp",
-     "title": "ep005",
-     "slug": "uchu-ep005",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep005/"
-    },
-    {
-     "no": "ep006.ymmp",
-     "title": "ep006",
-     "slug": "uchu-ep006",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep006/"
-    },
-    {
-     "no": "ep007.ymmp",
-     "title": "ep007",
-     "slug": "uchu-ep007",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep007/"
-    },
-    {
-     "no": "ep008.ymmp",
-     "title": "ep008",
-     "slug": "uchu-ep008",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep008/"
-    },
-    {
-     "no": "ep009.ymmp",
-     "title": "ep009",
-     "slug": "uchu-ep009",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep009/"
-    },
-    {
-     "no": "ep010.ymmp",
-     "title": "ep010",
-     "slug": "uchu-ep010",
-     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep010/"
-    },
     {
      "no": "ep011.ymmp",
      "title": "ep011",
@@ -462,48 +359,6 @@
    "code": "yokubou",
    "items": [
     {
-     "no": "11",
-     "title": "011_毎月1000ドルを3年もらった人は働くのをやめたのか",
-     "slug": "yokubou-011",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-011/"
-    },
-    {
-     "no": "12",
-     "title": "012_値上げより中身を減らすほうが客は離れにくい",
-     "slug": "yokubou-012",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-012/"
-    },
-    {
-     "no": "13",
-     "title": "013_マッチングアプリの両思いは結局似た者どうしだった",
-     "slug": "yokubou-013",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-013/"
-    },
-    {
-     "no": "14",
-     "title": "014_出社命令のあと会社を去ったのは誰か",
-     "slug": "yokubou-014",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-014/"
-    },
-    {
-     "no": "15",
-     "title": "015_やせ薬を使う家はスーパーで何を買わなくなったか",
-     "slug": "yokubou-015",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-015/"
-    },
-    {
-     "no": "16",
-     "title": "016_損するのがいやな気持ちは得の何倍か",
-     "slug": "yokubou-016",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-016/"
-    },
-    {
-     "no": "17",
-     "title": "017_AIに話を聞いてもらうとさびしさは減るのか",
-     "slug": "yokubou-017",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-017/"
-    },
-    {
      "no": "18",
      "title": "018_借金を帳消しにしても心は軽くならなかった",
      "slug": "yokubou-018",
@@ -522,8 +377,51 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-020/"
     }
    ]
+  },
+  {
+   "channel": "高校野球の歴史ちゃんねる",
+   "label": "高校野球の歴史ちゃんねる",
+   "code": "koukouyakyu",
+   "items": [
+    {
+     "no": "1",
+     "title": "001_編集用",
+     "slug": "koukouyakyu-001",
+     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-001/"
+    },
+    {
+     "no": "2",
+     "title": "002_編集用",
+     "slug": "koukouyakyu-002",
+     "url": null
+    },
+    {
+     "no": "3",
+     "title": "003_編集用",
+     "slug": "koukouyakyu-003",
+     "url": null
+    },
+    {
+     "no": "4",
+     "title": "004_編集用",
+     "slug": "koukouyakyu-004",
+     "url": null
+    },
+    {
+     "no": "5",
+     "title": "005_編集用",
+     "slug": "koukouyakyu-005",
+     "url": null
+    },
+    {
+     "no": "6",
+     "title": "006_編集用",
+     "slug": "koukouyakyu-006",
+     "url": null
+    }
+   ]
   }
  ],
- "total": 79,
- "ready": 79
+ "total": 62,
+ "ready": 57
 }
