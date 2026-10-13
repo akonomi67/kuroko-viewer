@@ -176,24 +176,6 @@
    "code": "tanuki",
    "items": [
     {
-     "no": "105",
-     "title": "修繕積立金値上げ_完成2",
-     "slug": "tanuki-105",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-105/"
-    },
-    {
-     "no": "106",
-     "title": "結婚前の貯金_完成2",
-     "slug": "tanuki-106",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-106/"
-    },
-    {
-     "no": "107",
-     "title": "独身40代の資産晒し_完成2",
-     "slug": "tanuki-107",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-107/"
-    },
-    {
      "no": "108",
      "title": "親からの援助晒し_完成2",
      "slug": "tanuki-108",
@@ -512,6 +494,6 @@
    ]
   }
  ],
- "total": 77,
- "ready": 64
+ "total": 74,
+ "ready": 61
 }
