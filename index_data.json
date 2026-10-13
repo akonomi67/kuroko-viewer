@@ -210,6 +210,66 @@
      "title": "貯金100万の壁_完成2",
      "slug": "tanuki-110",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-110/"
+    },
+    {
+     "no": "111",
+     "title": "嫁のほうが稼ぐ家計_完成2",
+     "slug": "tanuki-111",
+     "url": null
+    },
+    {
+     "no": "112",
+     "title": "公務員の資産晒し_完成2",
+     "slug": "tanuki-112",
+     "url": null
+    },
+    {
+     "no": "113",
+     "title": "全員35歳の10年_完成2",
+     "slug": "tanuki-113",
+     "url": null
+    },
+    {
+     "no": "114",
+     "title": "タワマンの今_完成2",
+     "slug": "tanuki-114",
+     "url": null
+    },
+    {
+     "no": "115",
+     "title": "源泉徴収票晒し_完成2",
+     "slug": "tanuki-115",
+     "url": null
+    },
+    {
+     "no": "116",
+     "title": "定年まであと5年_完成2",
+     "slug": "tanuki-116",
+     "url": null
+    },
+    {
+     "no": "117",
+     "title": "家計を握る側_完成2",
+     "slug": "tanuki-117",
+     "url": null
+    },
+    {
+     "no": "118",
+     "title": "地元組と東京組_完成2",
+     "slug": "tanuki-118",
+     "url": null
+    },
+    {
+     "no": "119",
+     "title": "定期預金の利息_完成2",
+     "slug": "tanuki-119",
+     "url": null
+    },
+    {
+     "no": "120",
+     "title": "年収で上から何パーセント_完成2",
+     "slug": "tanuki-120",
+     "url": null
     }
    ]
   },
@@ -219,10 +279,22 @@
    "code": "renai",
    "items": [
     {
+     "no": "71",
+     "title": "071_男女の結婚観はここまで違う",
+     "slug": "renai-071",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-071/"
+    },
+    {
      "no": "77",
      "title": "077_男は黙って甘え女は言葉で甘えている",
      "slug": "renai-077",
      "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-077/"
+    },
+    {
+     "no": "78",
+     "title": "078_男は頼られると女は頼れると好きになる",
+     "slug": "renai-078",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-078/"
     }
    ]
   },
@@ -404,6 +476,6 @@
    ]
   }
  ],
- "total": 59,
- "ready": 59
+ "total": 71,
+ "ready": 61
 }
