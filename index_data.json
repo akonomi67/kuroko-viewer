@@ -158,18 +158,6 @@
    "code": "tanuki",
    "items": [
     {
-     "no": "102",
-     "title": "同期入社20年の資産差_完成2",
-     "slug": "tanuki-102",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-102/"
-    },
-    {
-     "no": "103",
-     "title": "新NISA3年目_完成2",
-     "slug": "tanuki-103",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-103/"
-    },
-    {
      "no": "105",
      "title": "修繕積立金値上げ_完成2",
      "slug": "tanuki-105",
@@ -506,6 +494,6 @@
    ]
   }
  ],
- "total": 76,
- "ready": 63
+ "total": 74,
+ "ready": 61
 }
