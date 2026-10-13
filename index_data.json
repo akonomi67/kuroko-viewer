@@ -176,24 +176,6 @@
    "code": "tanuki",
    "items": [
     {
-     "no": "108",
-     "title": "親からの援助晒し_完成2",
-     "slug": "tanuki-108",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-108/"
-    },
-    {
-     "no": "109",
-     "title": "残クレの残りと貯金_完成2",
-     "slug": "tanuki-109",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-109/"
-    },
-    {
-     "no": "110",
-     "title": "貯金100万の壁_完成2",
-     "slug": "tanuki-110",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-110/"
-    },
-    {
      "no": "111",
      "title": "嫁のほうが稼ぐ家計_完成2",
      "slug": "tanuki-111",
@@ -494,6 +476,6 @@
    ]
   }
  ],
- "total": 74,
- "ready": 61
+ "total": 71,
+ "ready": 58
 }
