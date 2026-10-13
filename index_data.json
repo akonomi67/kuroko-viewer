@@ -158,12 +158,6 @@
    "code": "tanuki",
    "items": [
     {
-     "no": "101",
-     "title": "ゆとり世代の分かれ道_完成2",
-     "slug": "tanuki-101",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-101/"
-    },
-    {
      "no": "102",
      "title": "同期入社20年の資産差_完成2",
      "slug": "tanuki-102",
@@ -216,6 +210,19 @@
      "title": "貯金100万の壁_完成2",
      "slug": "tanuki-110",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-110/"
+    }
+   ]
+  },
+  {
+   "channel": "恋愛辞典",
+   "label": "恋愛辞典",
+   "code": "renai",
+   "items": [
+    {
+     "no": "77",
+     "title": "077_男は黙って甘え女は言葉で甘えている",
+     "slug": "renai-077",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-077/"
     }
    ]
   },
@@ -354,31 +361,6 @@
    ]
   },
   {
-   "channel": "欲望の方程式",
-   "label": "欲望の方程式",
-   "code": "yokubou",
-   "items": [
-    {
-     "no": "18",
-     "title": "018_借金を帳消しにしても心は軽くならなかった",
-     "slug": "yokubou-018",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-018/"
-    },
-    {
-     "no": "19",
-     "title": "019_スマホを賢くない電話にした2週間",
-     "slug": "yokubou-019",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-019/"
-    },
-    {
-     "no": "20",
-     "title": "020_週52時間以上働く人の脳に見つかった19%の違い",
-     "slug": "yokubou-020",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-020/"
-    }
-   ]
-  },
-  {
    "channel": "高校野球の歴史ちゃんねる",
    "label": "高校野球の歴史ちゃんねる",
    "code": "koukouyakyu",
@@ -422,6 +404,6 @@
    ]
   }
  ],
- "total": 62,
- "ready": 62
+ "total": 59,
+ "ready": 59
 }
