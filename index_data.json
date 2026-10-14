@@ -6,48 +6,6 @@
    "code": "jiken",
    "items": [
     {
-     "no": "106",
-     "title": "編集用",
-     "slug": "jiken-106",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-106/"
-    },
-    {
-     "no": "107",
-     "title": "編集用",
-     "slug": "jiken-107",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-107/"
-    },
-    {
-     "no": "108",
-     "title": "編集用",
-     "slug": "jiken-108",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-108/"
-    },
-    {
-     "no": "109",
-     "title": "編集用",
-     "slug": "jiken-109",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-109/"
-    },
-    {
-     "no": "110",
-     "title": "編集用",
-     "slug": "jiken-110",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-110/"
-    },
-    {
-     "no": "111",
-     "title": "編集用",
-     "slug": "jiken-111",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-111/"
-    },
-    {
-     "no": "112",
-     "title": "編集用",
-     "slug": "jiken-112",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-112/"
-    },
-    {
      "no": "113",
      "title": "編集用",
      "slug": "jiken-113",
@@ -294,13 +252,13 @@
      "no": "72",
      "title": "072_付き合う前は男が追い付き合った後は女が追う理由",
      "slug": "renai-072",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-072/"
     },
     {
      "no": "73",
      "title": "073_次も会いたいと思われる人は別れ際に必ずこれをしている",
      "slug": "renai-073",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-073/"
     },
     {
      "no": "74",
@@ -524,6 +482,6 @@
    ]
   }
  ],
- "total": 79,
- "ready": 66
+ "total": 72,
+ "ready": 61
 }
