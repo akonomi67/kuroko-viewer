@@ -36,24 +36,6 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-120/"
     },
     {
-     "no": "121",
-     "title": "編集用",
-     "slug": "jiken-121",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-121/"
-    },
-    {
-     "no": "122",
-     "title": "編集用",
-     "slug": "jiken-122",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-122/"
-    },
-    {
-     "no": "123",
-     "title": "編集用",
-     "slug": "jiken-123",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-123/"
-    },
-    {
      "no": "124",
      "title": "編集用",
      "slug": "jiken-124",
@@ -215,6 +197,66 @@
      "no": "120",
      "title": "年収で上から何パーセント_完成2",
      "slug": "tanuki-120",
+     "url": null
+    },
+    {
+     "no": "121",
+     "title": "家を売ったワイら_完成2",
+     "slug": "tanuki-121",
+     "url": null
+    },
+    {
+     "no": "122",
+     "title": "結婚10年の夫婦資産_完成2",
+     "slug": "tanuki-122",
+     "url": null
+    },
+    {
+     "no": "123",
+     "title": "年収600万どうしの格差_完成2",
+     "slug": "tanuki-123",
+     "url": null
+    },
+    {
+     "no": "124",
+     "title": "手取り20万台の家族持ち_完成2",
+     "slug": "tanuki-124",
+     "url": null
+    },
+    {
+     "no": "125",
+     "title": "40代で家を買った_完成2",
+     "slug": "tanuki-125",
+     "url": null
+    },
+    {
+     "no": "126",
+     "title": "40代の家計簿晒し_完成2",
+     "slug": "tanuki-126",
+     "url": null
+    },
+    {
+     "no": "127",
+     "title": "嫁が専業の家計_完成2",
+     "slug": "tanuki-127",
+     "url": null
+    },
+    {
+     "no": "128",
+     "title": "大企業と中小の格差_完成2",
+     "slug": "tanuki-128",
+     "url": null
+    },
+    {
+     "no": "129",
+     "title": "貯金が尽きる年齢_完成2",
+     "slug": "tanuki-129",
+     "url": null
+    },
+    {
+     "no": "130",
+     "title": "親への仕送り_完成2",
+     "slug": "tanuki-130",
      "url": null
     }
    ]
@@ -460,16 +502,10 @@
      "title": "006_編集用",
      "slug": "koukouyakyu-006",
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-006/"
-    },
-    {
-     "no": "19",
-     "title": "019_編集用",
-     "slug": "koukouyakyu-019",
-     "url": null
     }
    ]
   }
  ],
- "total": 70,
- "ready": 59
+ "total": 76,
+ "ready": 56
 }
