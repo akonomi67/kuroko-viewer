@@ -15,7 +15,7 @@
      "no": "117",
      "title": "編集用",
      "slug": "jiken-117",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-117/"
+     "url": null
     },
     {
      "no": "118",
@@ -133,64 +133,10 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-260/"
     },
     {
-     "no": "261",
-     "title": "編集用",
-     "slug": "showa-261",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-261/"
-    },
-    {
-     "no": "262",
-     "title": "編集用",
-     "slug": "showa-262",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-262/"
-    },
-    {
-     "no": "263",
-     "title": "編集用",
-     "slug": "showa-263",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-263/"
-    },
-    {
-     "no": "264",
-     "title": "編集用",
-     "slug": "showa-264",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-264/"
-    },
-    {
      "no": "265",
      "title": "編集用",
      "slug": "showa-265",
      "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-265/"
-    },
-    {
-     "no": "266",
-     "title": "編集用",
-     "slug": "showa-266",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-266/"
-    },
-    {
-     "no": "267",
-     "title": "編集用",
-     "slug": "showa-267",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-267/"
-    },
-    {
-     "no": "268",
-     "title": "編集用",
-     "slug": "showa-268",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-268/"
-    },
-    {
-     "no": "269",
-     "title": "編集用",
-     "slug": "showa-269",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-269/"
-    },
-    {
-     "no": "270",
-     "title": "編集用",
-     "slug": "showa-270",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-270/"
     }
    ]
   },
@@ -564,9 +510,39 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-006/"
     },
     {
+     "no": "7",
+     "title": "007_編集用",
+     "slug": "koukouyakyu-007",
+     "url": null
+    },
+    {
+     "no": "8",
+     "title": "008_編集用",
+     "slug": "koukouyakyu-008",
+     "url": null
+    },
+    {
      "no": "9",
      "title": "009_編集用",
      "slug": "koukouyakyu-009",
+     "url": null
+    },
+    {
+     "no": "10",
+     "title": "010_編集用",
+     "slug": "koukouyakyu-010",
+     "url": null
+    },
+    {
+     "no": "11",
+     "title": "011_編集用",
+     "slug": "koukouyakyu-011",
+     "url": null
+    },
+    {
+     "no": "12",
+     "title": "012_編集用",
+     "slug": "koukouyakyu-012",
      "url": null
     },
     {
@@ -576,9 +552,21 @@
      "url": null
     },
     {
+     "no": "14",
+     "title": "014_編集用",
+     "slug": "koukouyakyu-014",
+     "url": null
+    },
+    {
      "no": "15",
      "title": "015_編集用",
      "slug": "koukouyakyu-015",
+     "url": null
+    },
+    {
+     "no": "16",
+     "title": "016_編集用",
+     "slug": "koukouyakyu-016",
      "url": null
     },
     {
@@ -608,6 +596,6 @@
    ]
   }
  ],
- "total": 93,
- "ready": 66
+ "total": 91,
+ "ready": 56
 }
