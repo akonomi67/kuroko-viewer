@@ -6,24 +6,6 @@
    "code": "jiken",
    "items": [
     {
-     "no": "113",
-     "title": "編集用",
-     "slug": "jiken-113",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-113/"
-    },
-    {
-     "no": "114",
-     "title": "編集用",
-     "slug": "jiken-114",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-114/"
-    },
-    {
-     "no": "115",
-     "title": "編集用",
-     "slug": "jiken-115",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-115/"
-    },
-    {
      "no": "116",
      "title": "編集用",
      "slug": "jiken-116",
@@ -482,6 +464,6 @@
    ]
   }
  ],
- "total": 72,
- "ready": 62
+ "total": 69,
+ "ready": 59
 }
