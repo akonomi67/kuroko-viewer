@@ -157,6 +157,12 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-267/"
     },
     {
+     "no": "268",
+     "title": "編集用",
+     "slug": "showa-268",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-268/"
+    },
+    {
      "no": "269",
      "title": "編集用",
      "slug": "showa-269",
@@ -584,6 +590,6 @@
    ]
   }
  ],
- "total": 89,
- "ready": 62
+ "total": 90,
+ "ready": 63
 }
