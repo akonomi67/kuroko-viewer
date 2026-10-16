@@ -508,10 +508,40 @@
      "title": "006_編集用",
      "slug": "koukouyakyu-006",
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-006/"
+    },
+    {
+     "no": "9",
+     "title": "009_編集用",
+     "slug": "koukouyakyu-009",
+     "url": null
+    },
+    {
+     "no": "15",
+     "title": "015_編集用",
+     "slug": "koukouyakyu-015",
+     "url": null
+    },
+    {
+     "no": "18",
+     "title": "018_編集用",
+     "slug": "koukouyakyu-018",
+     "url": null
+    },
+    {
+     "no": "19",
+     "title": "019_編集用",
+     "slug": "koukouyakyu-019",
+     "url": null
+    },
+    {
+     "no": "20",
+     "title": "020_編集用",
+     "slug": "koukouyakyu-020",
+     "url": null
     }
    ]
   }
  ],
- "total": 77,
+ "total": 82,
  "ready": 57
 }
