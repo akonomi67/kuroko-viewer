@@ -36,6 +36,24 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-120/"
     },
     {
+     "no": "121",
+     "title": "編集用",
+     "slug": "jiken-121",
+     "url": null
+    },
+    {
+     "no": "122",
+     "title": "編集用",
+     "slug": "jiken-122",
+     "url": null
+    },
+    {
+     "no": "123",
+     "title": "編集用",
+     "slug": "jiken-123",
+     "url": null
+    },
+    {
      "no": "124",
      "title": "編集用",
      "slug": "jiken-124",
@@ -389,6 +407,49 @@
    ]
   },
   {
+   "channel": "職場の人間関係辞典",
+   "label": "職場の人間関係辞典",
+   "code": "shokuba",
+   "items": [
+    {
+     "no": "25",
+     "title": "025_上司の愚痴に相づちを打った部下が半年後に失ったもの",
+     "slug": "shokuba-025",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-025/"
+    },
+    {
+     "no": "26",
+     "title": "026_職場の人間関係に疲れていないか数える10のチェック",
+     "slug": "shokuba-026",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-026/"
+    },
+    {
+     "no": "27",
+     "title": "027_苦手な上司ができる心理学の理由6つ",
+     "slug": "shokuba-027",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-027/"
+    },
+    {
+     "no": "28",
+     "title": "028_昇進を打診された部下が返事の前に確かめる5つ",
+     "slug": "shokuba-028",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-028/"
+    },
+    {
+     "no": "29",
+     "title": "029_テレワークの上司と部下あるある12選",
+     "slug": "shokuba-029",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-029/"
+    },
+    {
+     "no": "30",
+     "title": "030_職場で言ってはいけない悪気のない一言7選",
+     "slug": "shokuba-030",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-030/"
+    }
+   ]
+  },
+  {
    "channel": "宇宙に置いてきたもの",
    "label": "宇宙に置いてきたもの",
    "code": "uchu",
@@ -523,6 +584,31 @@
    ]
   },
   {
+   "channel": "欲望の方程式",
+   "label": "欲望の方程式",
+   "code": "yokubou",
+   "items": [
+    {
+     "no": "18",
+     "title": "018_借金を帳消しにしても心は軽くならなかった",
+     "slug": "yokubou-018",
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-018/"
+    },
+    {
+     "no": "19",
+     "title": "019_スマホを賢くない電話にした2週間",
+     "slug": "yokubou-019",
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-019/"
+    },
+    {
+     "no": "20",
+     "title": "020_週52時間以上働く人の脳に見つかった19%の違い",
+     "slug": "yokubou-020",
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-020/"
+    }
+   ]
+  },
+  {
    "channel": "高校野球の歴史ちゃんねる",
    "label": "高校野球の歴史ちゃんねる",
    "code": "koukouyakyu",
@@ -650,6 +736,6 @@
    ]
   }
  ],
- "total": 100,
- "ready": 66
+ "total": 112,
+ "ready": 75
 }
