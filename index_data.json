@@ -474,31 +474,6 @@
    ]
   },
   {
-   "channel": "欲望の方程式",
-   "label": "欲望の方程式",
-   "code": "yokubou",
-   "items": [
-    {
-     "no": "18",
-     "title": "018_借金を帳消しにしても心は軽くならなかった",
-     "slug": "yokubou-018",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-018/"
-    },
-    {
-     "no": "19",
-     "title": "019_スマホを賢くない電話にした2週間",
-     "slug": "yokubou-019",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-019/"
-    },
-    {
-     "no": "20",
-     "title": "020_週52時間以上働く人の脳に見つかった19%の違い",
-     "slug": "yokubou-020",
-     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-020/"
-    }
-   ]
-  },
-  {
    "channel": "高校野球の歴史ちゃんねる",
    "label": "高校野球の歴史ちゃんねる",
    "code": "koukouyakyu",
@@ -620,6 +595,6 @@
    ]
   }
  ],
- "total": 95,
- "ready": 61
+ "total": 92,
+ "ready": 58
 }
