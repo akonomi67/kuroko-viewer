@@ -345,12 +345,6 @@
    "code": "shokuba",
    "items": [
     {
-     "no": "25",
-     "title": "025_上司の愚痴に相づちを打った部下が半年後に失ったもの",
-     "slug": "shokuba-025",
-     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-025/"
-    },
-    {
      "no": "26",
      "title": "026_職場の人間関係に疲れていないか数える10のチェック",
      "slug": "shokuba-026",
@@ -663,6 +657,6 @@
    ]
   }
  ],
- "total": 101,
- "ready": 67
+ "total": 100,
+ "ready": 66
 }
