@@ -1,73 +1,6 @@
 {
  "groups": [
   {
-   "channel": "ゆっくり事件クロニクル",
-   "label": "事件クロニクル",
-   "code": "jiken",
-   "items": [
-    {
-     "no": "116",
-     "title": "編集用",
-     "slug": "jiken-116",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-116/"
-    },
-    {
-     "no": "117",
-     "title": "編集用",
-     "slug": "jiken-117",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-117/"
-    },
-    {
-     "no": "118",
-     "title": "編集用",
-     "slug": "jiken-118",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-118/"
-    },
-    {
-     "no": "119",
-     "title": "編集用",
-     "slug": "jiken-119",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-119/"
-    },
-    {
-     "no": "120",
-     "title": "編集用",
-     "slug": "jiken-120",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-120/"
-    },
-    {
-     "no": "121",
-     "title": "編集用",
-     "slug": "jiken-121",
-     "url": null
-    },
-    {
-     "no": "122",
-     "title": "編集用",
-     "slug": "jiken-122",
-     "url": null
-    },
-    {
-     "no": "123",
-     "title": "編集用",
-     "slug": "jiken-123",
-     "url": null
-    },
-    {
-     "no": "124",
-     "title": "編集用",
-     "slug": "jiken-124",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-124/"
-    },
-    {
-     "no": "125",
-     "title": "編集用",
-     "slug": "jiken-125",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-125/"
-    }
-   ]
-  },
-  {
    "channel": "昭和プレイバック",
    "label": "昭和プレイバック",
    "code": "showa",
@@ -547,6 +480,6 @@
    ]
   }
  ],
- "total": 84,
- "ready": 81
+ "total": 74,
+ "ready": 74
 }
