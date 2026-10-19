@@ -361,7 +361,7 @@
      "no": "11",
      "title": "011_編集用",
      "slug": "koukouyakyu-011",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-011/"
+     "url": null
     },
     {
      "no": "12",
@@ -481,5 +481,5 @@
   }
  ],
  "total": 74,
- "ready": 74
+ "ready": 73
 }
