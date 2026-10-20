@@ -478,8 +478,75 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-030/"
     }
    ]
+  },
+  {
+   "channel": "となりの車屋さん",
+   "label": "となりの車屋さん",
+   "code": "kuruma",
+   "items": [
+    {
+     "no": "81",
+     "title": "081_普通車ならこの一台",
+     "slug": "kuruma-081",
+     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-081/"
+    },
+    {
+     "no": "82",
+     "title": "082_N-BOXとスペーシアどっち",
+     "slug": "kuruma-082",
+     "url": null
+    },
+    {
+     "no": "83",
+     "title": "083_最後の一台は十年もつ車",
+     "slug": "kuruma-083",
+     "url": null
+    },
+    {
+     "no": "84",
+     "title": "084_中古で選ぶならこの一台",
+     "slug": "kuruma-084",
+     "url": null
+    },
+    {
+     "no": "85",
+     "title": "085_雪道に強い四駆の一台",
+     "slug": "kuruma-085",
+     "url": null
+    },
+    {
+     "no": "86",
+     "title": "086_電気の軽は七十代に向くか",
+     "slug": "kuruma-086",
+     "url": null
+    },
+    {
+     "no": "87",
+     "title": "087_国の試験で安全な5台",
+     "slug": "kuruma-087",
+     "url": null
+    },
+    {
+     "no": "88",
+     "title": "088_ジムニーに憧れるかたへ",
+     "slug": "kuruma-088",
+     "url": null
+    },
+    {
+     "no": "89",
+     "title": "089_ルーミーとソリオどっち",
+     "slug": "kuruma-089",
+     "url": null
+    },
+    {
+     "no": "90",
+     "title": "090_夜道はライトで選ぶ一台",
+     "slug": "kuruma-090",
+     "url": null
+    }
+   ]
   }
  ],
- "total": 74,
- "ready": 74
+ "total": 84,
+ "ready": 75
 }
