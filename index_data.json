@@ -480,6 +480,12 @@
     },
     {
      "no": "86",
+     "title": "086_電気の軽は七十代に向くか (1)",
+     "slug": "kuruma-086",
+     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-086/"
+    },
+    {
+     "no": "86",
      "title": "086_電気の軽は七十代に向くか",
      "slug": "kuruma-086",
      "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-086/"
@@ -511,6 +517,6 @@
    ]
   }
  ],
- "total": 78,
- "ready": 77
+ "total": 79,
+ "ready": 78
 }
