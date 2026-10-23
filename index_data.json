@@ -334,42 +334,6 @@
    "code": "koukouyakyu",
    "items": [
     {
-     "no": "7",
-     "title": "007_編集用",
-     "slug": "koukouyakyu-007",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-007/"
-    },
-    {
-     "no": "8",
-     "title": "008_編集用",
-     "slug": "koukouyakyu-008",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-008/"
-    },
-    {
-     "no": "9",
-     "title": "009_編集用",
-     "slug": "koukouyakyu-009",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-009/"
-    },
-    {
-     "no": "10",
-     "title": "010_編集用",
-     "slug": "koukouyakyu-010",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-010/"
-    },
-    {
-     "no": "11",
-     "title": "011_編集用",
-     "slug": "koukouyakyu-011",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-011/"
-    },
-    {
-     "no": "12",
-     "title": "012_編集用",
-     "slug": "koukouyakyu-012",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-012/"
-    },
-    {
      "no": "13",
      "title": "013_編集用",
      "slug": "koukouyakyu-013",
@@ -547,6 +511,6 @@
    ]
   }
  ],
- "total": 84,
- "ready": 83
+ "total": 78,
+ "ready": 77
 }
