@@ -1,155 +1,10 @@
 {
  "groups": [
   {
-   "channel": "昭和プレイバック",
-   "label": "昭和プレイバック",
-   "code": "showa",
-   "items": [
-    {
-     "no": "261",
-     "title": "編集用",
-     "slug": "showa-261",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-261/"
-    },
-    {
-     "no": "262",
-     "title": "編集用",
-     "slug": "showa-262",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-262/"
-    },
-    {
-     "no": "263",
-     "title": "編集用",
-     "slug": "showa-263",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-263/"
-    },
-    {
-     "no": "264",
-     "title": "編集用",
-     "slug": "showa-264",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-264/"
-    },
-    {
-     "no": "265",
-     "title": "編集用",
-     "slug": "showa-265",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-265/"
-    },
-    {
-     "no": "266",
-     "title": "編集用",
-     "slug": "showa-266",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-266/"
-    },
-    {
-     "no": "267",
-     "title": "編集用",
-     "slug": "showa-267",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-267/"
-    },
-    {
-     "no": "268",
-     "title": "編集用",
-     "slug": "showa-268",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-268/"
-    },
-    {
-     "no": "269",
-     "title": "編集用",
-     "slug": "showa-269",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-269/"
-    },
-    {
-     "no": "270",
-     "title": "編集用",
-     "slug": "showa-270",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-270/"
-    }
-   ]
-  },
-  {
    "channel": "たぬきの2chお金スレまとめ",
    "label": "たぬき",
    "code": "tanuki",
    "items": [
-    {
-     "no": "111",
-     "title": "嫁のほうが稼ぐ家計_完成2",
-     "slug": "tanuki-111",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-111/"
-    },
-    {
-     "no": "112",
-     "title": "公務員の資産晒し_完成2",
-     "slug": "tanuki-112",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-112/"
-    },
-    {
-     "no": "113",
-     "title": "全員35歳の10年_完成2",
-     "slug": "tanuki-113",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-113/"
-    },
-    {
-     "no": "114",
-     "title": "タワマンの今_完成2",
-     "slug": "tanuki-114",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-114/"
-    },
-    {
-     "no": "115",
-     "title": "源泉徴収票晒し_完成2",
-     "slug": "tanuki-115",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-115/"
-    },
-    {
-     "no": "116",
-     "title": "定年まであと5年_完成2",
-     "slug": "tanuki-116",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-116/"
-    },
-    {
-     "no": "117",
-     "title": "家計を握る側_完成2",
-     "slug": "tanuki-117",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-117/"
-    },
-    {
-     "no": "118",
-     "title": "地元組と東京組_完成2",
-     "slug": "tanuki-118",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-118/"
-    },
-    {
-     "no": "119",
-     "title": "定期預金の利息_完成2",
-     "slug": "tanuki-119",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-119/"
-    },
-    {
-     "no": "120",
-     "title": "年収で上から何パーセント_完成2",
-     "slug": "tanuki-120",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-120/"
-    },
-    {
-     "no": "121",
-     "title": "家を売ったワイら_完成2",
-     "slug": "tanuki-121",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-121/"
-    },
-    {
-     "no": "122",
-     "title": "結婚10年の夫婦資産_完成2",
-     "slug": "tanuki-122",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-122/"
-    },
-    {
-     "no": "123",
-     "title": "年収600万どうしの格差_完成2",
-     "slug": "tanuki-123",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-123/"
-    },
     {
      "no": "124",
      "title": "手取り20万台の家族持ち_完成2",
@@ -334,24 +189,6 @@
    "code": "koukouyakyu",
    "items": [
     {
-     "no": "13",
-     "title": "013_編集用",
-     "slug": "koukouyakyu-013",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-013/"
-    },
-    {
-     "no": "14",
-     "title": "014_編集用",
-     "slug": "koukouyakyu-014",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-014/"
-    },
-    {
-     "no": "15",
-     "title": "015_編集用",
-     "slug": "koukouyakyu-015",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-015/"
-    },
-    {
      "no": "16",
      "title": "016_編集用",
      "slug": "koukouyakyu-016",
@@ -442,81 +279,8 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-030/"
     }
    ]
-  },
-  {
-   "channel": "となりの車屋さん",
-   "label": "となりの車屋さん",
-   "code": "kuruma",
-   "items": [
-    {
-     "no": "81",
-     "title": "081_普通車ならこの一台",
-     "slug": "kuruma-081",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-081/"
-    },
-    {
-     "no": "82",
-     "title": "082_N-BOXとスペーシアどっち",
-     "slug": "kuruma-082",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-082/"
-    },
-    {
-     "no": "83",
-     "title": "083_最後の一台は十年もつ車",
-     "slug": "kuruma-083",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-083/"
-    },
-    {
-     "no": "84",
-     "title": "084_中古で選ぶならこの一台",
-     "slug": "kuruma-084",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-084/"
-    },
-    {
-     "no": "85",
-     "title": "085_雪道に強い四駆の一台",
-     "slug": "kuruma-085",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-085/"
-    },
-    {
-     "no": "86",
-     "title": "086_電気の軽は七十代に向くか (1)",
-     "slug": "kuruma-086",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-086/"
-    },
-    {
-     "no": "86",
-     "title": "086_電気の軽は七十代に向くか",
-     "slug": "kuruma-086",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-086/"
-    },
-    {
-     "no": "87",
-     "title": "087_国の試験で安全な5台",
-     "slug": "kuruma-087",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-087/"
-    },
-    {
-     "no": "88",
-     "title": "088_ジムニーに憧れるかたへ",
-     "slug": "kuruma-088",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-088/"
-    },
-    {
-     "no": "89",
-     "title": "089_ルーミーとソリオどっち",
-     "slug": "kuruma-089",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-089/"
-    },
-    {
-     "no": "90",
-     "title": "090_夜道はライトで選ぶ一台",
-     "slug": "kuruma-090",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-090/"
-    }
-   ]
   }
  ],
- "total": 79,
- "ready": 79
+ "total": 42,
+ "ready": 42
 }
