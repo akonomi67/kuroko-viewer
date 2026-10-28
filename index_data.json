@@ -34,6 +34,12 @@
      "title": "編集用",
      "slug": "jiken-133",
      "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-133/"
+    },
+    {
+     "no": "135",
+     "title": "編集用",
+     "slug": "jiken-135",
+     "url": null
     }
    ]
   },
@@ -113,7 +119,7 @@
      "no": "84",
      "title": "084_好き避けの正体_好きな人ほど避けてしまうのは男女でここまで違う",
      "slug": "renai-084",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-084/"
     },
     {
      "no": "85",
@@ -288,6 +294,6 @@
    ]
   }
  ],
- "total": 42,
- "ready": 39
+ "total": 43,
+ "ready": 40
 }
