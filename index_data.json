@@ -10,6 +10,12 @@
      "title": "編集用",
      "slug": "jiken-129",
      "url": null
+    },
+    {
+     "no": "133",
+     "title": "編集用",
+     "slug": "jiken-133",
+     "url": null
     }
    ]
   },
@@ -86,6 +92,12 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-083/"
     },
     {
+     "no": "84",
+     "title": "084_好き避けの正体_好きな人ほど避けてしまうのは男女でここまで違う",
+     "slug": "renai-084",
+     "url": null
+    },
+    {
      "no": "85",
      "title": "085_付き合ってるの中身が男女でここまで違う",
      "slug": "renai-085",
@@ -95,7 +107,7 @@
      "no": "86",
      "title": "086_返事が戻る人の2通目_既読のまま止まった時に追うほど遠のく理由",
      "slug": "renai-086",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-086/"
     },
     {
      "no": "87",
@@ -258,6 +270,6 @@
    ]
   }
  ],
- "total": 37,
- "ready": 31
+ "total": 39,
+ "ready": 32
 }
