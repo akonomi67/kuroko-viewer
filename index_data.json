@@ -50,6 +50,19 @@
    ]
   },
   {
+   "channel": "恋愛辞典",
+   "label": "恋愛辞典",
+   "code": "renai",
+   "items": [
+    {
+     "no": "81",
+     "title": "081_紹介の意味が違う_恋人を友達に紹介する時の男女の違い",
+     "slug": "renai-081",
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-081/"
+    }
+   ]
+  },
+  {
    "channel": "宇宙に置いてきたもの",
    "label": "宇宙に置いてきたもの",
    "code": "uchu",
@@ -184,6 +197,6 @@
    ]
   }
  ],
- "total": 27,
- "ready": 27
+ "total": 28,
+ "ready": 28
 }
