@@ -18,6 +18,12 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-127/"
     },
     {
+     "no": "128",
+     "title": "編集用",
+     "slug": "jiken-128",
+     "url": null
+    },
+    {
      "no": "129",
      "title": "編集用",
      "slug": "jiken-129",
@@ -306,6 +312,6 @@
    ]
   }
  ],
- "total": 45,
+ "total": 46,
  "ready": 44
 }
