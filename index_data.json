@@ -143,7 +143,7 @@
      "no": "21",
      "title": "ep021",
      "slug": "saigai-ep021",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep021/"
     },
     {
      "no": "22",
@@ -242,10 +242,16 @@
      "title": "ハスラーとタフトどっち",
      "slug": "kuruma-101",
      "url": null
+    },
+    {
+     "no": "102",
+     "title": "小さな高級車の一台",
+     "slug": "kuruma-102",
+     "url": null
     }
    ]
   }
  ],
- "total": 35,
- "ready": 28
+ "total": 36,
+ "ready": 29
 }
