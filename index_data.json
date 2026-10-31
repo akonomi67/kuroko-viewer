@@ -319,7 +319,7 @@
      "no": "103",
      "title": "幅で選ぶ普通車5台",
      "slug": "kuruma-103",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-103/"
     },
     {
      "no": "104",
@@ -349,5 +349,5 @@
   }
  ],
  "total": 52,
- "ready": 47
+ "ready": 48
 }
