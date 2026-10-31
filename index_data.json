@@ -290,10 +290,16 @@
      "title": "遠出が多いかたの一台",
      "slug": "kuruma-105",
      "url": null
+    },
+    {
+     "no": "106",
+     "title": "一人で近所だけの一台",
+     "slug": "kuruma-106",
+     "url": null
     }
    ]
   }
  ],
- "total": 43,
+ "total": 44,
  "ready": 36
 }
