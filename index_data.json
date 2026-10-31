@@ -177,8 +177,27 @@
      "url": null
     }
    ]
+  },
+  {
+   "channel": "となりの車屋さん",
+   "label": "となりの車屋さん",
+   "code": "kuruma",
+   "items": [
+    {
+     "no": "91",
+     "title": "091_ヤリスとフィットどっち",
+     "slug": "kuruma-091",
+     "url": null
+    },
+    {
+     "no": "95",
+     "title": "095_プリウスからの乗り換え",
+     "slug": "kuruma-095",
+     "url": null
+    }
+   ]
   }
  ],
- "total": 25,
+ "total": 27,
  "ready": 23
 }
