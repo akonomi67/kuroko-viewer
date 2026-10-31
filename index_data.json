@@ -285,6 +285,12 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-097/"
     },
     {
+     "no": "98",
+     "title": "098_運転が好きなかたの一台",
+     "slug": "kuruma-098",
+     "url": null
+    },
+    {
      "no": "99",
      "title": "099_孫を乗せる一台",
      "slug": "kuruma-099",
@@ -335,6 +341,6 @@
    ]
   }
  ],
- "total": 51,
+ "total": 52,
  "ready": 51
 }
