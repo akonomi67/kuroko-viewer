@@ -167,7 +167,7 @@
      "no": "27",
      "title": "ep027",
      "slug": "saigai-ep027",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep027/"
     },
     {
      "no": "28",
@@ -278,10 +278,16 @@
      "title": "サポカー限定で乗る一台",
      "slug": "kuruma-104",
      "url": null
+    },
+    {
+     "no": "105",
+     "title": "遠出が多いかたの一台",
+     "slug": "kuruma-105",
+     "url": null
     }
    ]
   }
  ],
- "total": 41,
- "ready": 34
+ "total": 42,
+ "ready": 35
 }
