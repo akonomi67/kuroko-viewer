@@ -325,7 +325,7 @@
      "no": "104",
      "title": "サポカー限定で乗る一台",
      "slug": "kuruma-104",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-104/"
     },
     {
      "no": "105",
@@ -349,5 +349,5 @@
   }
  ],
  "total": 52,
- "ready": 48
+ "ready": 49
 }
