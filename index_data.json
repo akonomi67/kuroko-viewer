@@ -250,6 +250,12 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-096/"
     },
     {
+     "no": "97",
+     "title": "097_運転を代わる奥さまの一台",
+     "slug": "kuruma-097",
+     "url": null
+    },
+    {
      "no": "99",
      "title": "099_孫を乗せる一台",
      "slug": "kuruma-099",
@@ -288,6 +294,6 @@
    ]
   }
  ],
- "total": 42,
+ "total": 43,
  "ready": 36
 }
