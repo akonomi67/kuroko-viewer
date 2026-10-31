@@ -135,6 +135,19 @@
    ]
   },
   {
+   "channel": "46億年の災害史",
+   "label": "46億年の災害史",
+   "code": "saigai",
+   "items": [
+    {
+     "no": "22",
+     "title": "ep022",
+     "slug": "saigai-ep022",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep022/"
+    }
+   ]
+  },
+  {
    "channel": "欲望の方程式",
    "label": "欲望の方程式",
    "code": "yokubou",
@@ -143,13 +156,19 @@
      "no": "22",
      "title": "022_管理職になって2年後に心の不調が増えていた",
      "slug": "yokubou-022",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-022/"
     },
     {
      "no": "23",
      "title": "023_宝くじの大金で結婚と離婚はどう変わったか",
      "slug": "yokubou-023",
      "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-023/"
+    },
+    {
+     "no": "24",
+     "title": "024_まわりの大人が働いているかで子どもの将来が変わった",
+     "slug": "yokubou-024",
+     "url": null
     },
     {
      "no": "25",
@@ -160,6 +179,6 @@
    ]
   }
  ],
- "total": 23,
- "ready": 21
+ "total": 25,
+ "ready": 23
 }
