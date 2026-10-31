@@ -307,7 +307,7 @@
      "no": "102",
      "title": "小さな高級車の一台",
      "slug": "kuruma-102",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-102/"
     },
     {
      "no": "103",
@@ -343,5 +343,5 @@
   }
  ],
  "total": 51,
- "ready": 45
+ "ready": 46
 }
