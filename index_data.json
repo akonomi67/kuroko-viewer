@@ -210,7 +210,7 @@
      "no": "25",
      "title": "025_株は上がると売る人が仮想通貨だけは売らなかった",
      "slug": "yokubou-025",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-025/"
     }
    ]
   },
@@ -223,6 +223,12 @@
      "no": "91",
      "title": "091_ヤリスとフィットどっち",
      "slug": "kuruma-091",
+     "url": null
+    },
+    {
+     "no": "92",
+     "title": "092_小さなSUVならこの一台",
+     "slug": "kuruma-092",
      "url": null
     },
     {
@@ -264,6 +270,6 @@
    ]
   }
  ],
- "total": 38,
- "ready": 31
+ "total": 39,
+ "ready": 32
 }
