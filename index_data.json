@@ -295,7 +295,7 @@
      "no": "99",
      "title": "099_孫を乗せる一台",
      "slug": "kuruma-099",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-099/"
     },
     {
      "no": "101",
@@ -343,5 +343,5 @@
   }
  ],
  "total": 51,
- "ready": 42
+ "ready": 43
 }
