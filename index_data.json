@@ -226,6 +226,12 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-095/"
     },
     {
+     "no": "96",
+     "title": "096_坂の町の一台",
+     "slug": "kuruma-096",
+     "url": null
+    },
+    {
      "no": "99",
      "title": "099_孫を乗せる一台",
      "slug": "kuruma-099",
@@ -240,6 +246,6 @@
    ]
   }
  ],
- "total": 34,
+ "total": 35,
  "ready": 27
 }
