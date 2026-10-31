@@ -135,6 +135,25 @@
    ]
   },
   {
+   "channel": "職場の人間関係辞典",
+   "label": "職場の人間関係辞典",
+   "code": "shokuba",
+   "items": [
+    {
+     "no": "31",
+     "title": "031_入社半年で辞めたくなる瞬間ワースト7",
+     "slug": "shokuba-031",
+     "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-031/"
+    },
+    {
+     "no": "32",
+     "title": "032_年下の上司を持った部下から届いた5つの相談",
+     "slug": "shokuba-032",
+     "url": null
+    }
+   ]
+  },
+  {
    "channel": "46億年の災害史",
    "label": "46億年の災害史",
    "code": "saigai",
@@ -348,6 +367,6 @@
    ]
   }
  ],
- "total": 52,
- "ready": 50
+ "total": 54,
+ "ready": 51
 }
