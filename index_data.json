@@ -140,10 +140,22 @@
    "code": "saigai",
    "items": [
     {
+     "no": "21",
+     "title": "ep021",
+     "slug": "saigai-ep021",
+     "url": null
+    },
+    {
      "no": "22",
      "title": "ep022",
      "slug": "saigai-ep022",
      "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep022/"
+    },
+    {
+     "no": "23",
+     "title": "ep023",
+     "slug": "saigai-ep023",
+     "url": null
     },
     {
      "no": "25",
@@ -180,7 +192,7 @@
      "no": "24",
      "title": "024_まわりの大人が働いているかで子どもの将来が変わった",
      "slug": "yokubou-024",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-024/"
     },
     {
      "no": "25",
@@ -216,6 +228,6 @@
    ]
   }
  ],
- "total": 30,
- "ready": 26
+ "total": 32,
+ "ready": 27
 }
