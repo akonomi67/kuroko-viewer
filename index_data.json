@@ -192,6 +192,12 @@
      "title": "ep030",
      "slug": "saigai-ep030",
      "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep030/"
+    },
+    {
+     "no": "31",
+     "title": "ep031",
+     "slug": "saigai-ep031",
+     "url": null
     }
    ]
   },
@@ -262,6 +268,12 @@
      "url": null
     },
     {
+     "no": "94",
+     "title": "094_シエンタとフリードどっち",
+     "slug": "kuruma-094",
+     "url": null
+    },
+    {
      "no": "95",
      "title": "095_プリウスからの乗り換え",
      "slug": "kuruma-095",
@@ -277,7 +289,7 @@
      "no": "97",
      "title": "097_運転を代わる奥さまの一台",
      "slug": "kuruma-097",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-097/"
     },
     {
      "no": "99",
@@ -330,6 +342,6 @@
    ]
   }
  ],
- "total": 49,
- "ready": 39
+ "total": 51,
+ "ready": 40
 }
