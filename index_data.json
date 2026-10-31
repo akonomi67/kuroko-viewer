@@ -152,6 +152,12 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-shokuba/shokuba-032/"
     },
     {
+     "no": "33",
+     "title": "033_ランチに誘われなくなった部下の三ヶ月",
+     "slug": "shokuba-033",
+     "url": null
+    },
+    {
      "no": "35",
      "title": "035_休みを言い出しにくい部下が先に決めておく5つ",
      "slug": "shokuba-035",
@@ -362,7 +368,7 @@
      "no": "106",
      "title": "一人で近所だけの一台",
      "slug": "kuruma-106",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-106/"
     },
     {
      "no": "107",
@@ -373,6 +379,6 @@
    ]
   }
  ],
- "total": 55,
- "ready": 53
+ "total": 56,
+ "ready": 54
 }
