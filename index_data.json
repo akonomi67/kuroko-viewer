@@ -133,8 +133,33 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-090/"
     }
    ]
+  },
+  {
+   "channel": "欲望の方程式",
+   "label": "欲望の方程式",
+   "code": "yokubou",
+   "items": [
+    {
+     "no": "22",
+     "title": "022_管理職になって2年後に心の不調が増えていた",
+     "slug": "yokubou-022",
+     "url": null
+    },
+    {
+     "no": "23",
+     "title": "023_宝くじの大金で結婚と離婚はどう変わったか",
+     "slug": "yokubou-023",
+     "url": "https://akonomi67.github.io/kuroko-viewer-yokubou/yokubou-023/"
+    },
+    {
+     "no": "25",
+     "title": "025_株は上がると売る人が仮想通貨だけは売らなかった",
+     "slug": "yokubou-025",
+     "url": null
+    }
+   ]
   }
  ],
- "total": 20,
- "ready": 20
+ "total": 23,
+ "ready": 21
 }
