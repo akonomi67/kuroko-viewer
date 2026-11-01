@@ -182,9 +182,39 @@
      "url": null
     },
     {
+     "no": "23",
+     "title": "ep023",
+     "slug": "uchu-ep023",
+     "url": null
+    },
+    {
      "no": "24",
      "title": "ep024",
      "slug": "uchu-ep024",
+     "url": null
+    },
+    {
+     "no": "25",
+     "title": "ep025",
+     "slug": "uchu-ep025",
+     "url": null
+    },
+    {
+     "no": "26",
+     "title": "ep026",
+     "slug": "uchu-ep026",
+     "url": null
+    },
+    {
+     "no": "27",
+     "title": "ep027",
+     "slug": "uchu-ep027",
+     "url": null
+    },
+    {
+     "no": "28",
+     "title": "ep028",
+     "slug": "uchu-ep028",
      "url": null
     },
     {
@@ -192,6 +222,12 @@
      "title": "ep029",
      "slug": "uchu-ep029",
      "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep029/"
+    },
+    {
+     "no": "30",
+     "title": "ep030",
+     "slug": "uchu-ep030",
+     "url": null
     }
    ]
   },
@@ -378,6 +414,6 @@
    ]
   }
  ],
- "total": 57,
+ "total": 63,
  "ready": 54
 }
