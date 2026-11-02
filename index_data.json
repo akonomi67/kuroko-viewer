@@ -237,30 +237,6 @@
    "code": "saigai",
    "items": [
     {
-     "no": "21",
-     "title": "ep021",
-     "slug": "saigai-ep021",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep021/"
-    },
-    {
-     "no": "22",
-     "title": "ep022",
-     "slug": "saigai-ep022",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep022/"
-    },
-    {
-     "no": "23",
-     "title": "ep023",
-     "slug": "saigai-ep023",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep023/"
-    },
-    {
-     "no": "24",
-     "title": "ep024",
-     "slug": "saigai-ep024",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep024/"
-    },
-    {
      "no": "25",
      "title": "ep025",
      "slug": "saigai-ep025",
@@ -414,6 +390,6 @@
    ]
   }
  ],
- "total": 63,
- "ready": 63
+ "total": 59,
+ "ready": 59
 }
