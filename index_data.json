@@ -116,6 +116,19 @@
    ]
   },
   {
+   "channel": "昭和プレイバック",
+   "label": "昭和プレイバック",
+   "code": "showa",
+   "items": [
+    {
+     "no": "271",
+     "title": "編集用",
+     "slug": "showa-271",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-271/"
+    }
+   ]
+  },
+  {
    "channel": "恋愛辞典",
    "label": "恋愛辞典",
    "code": "renai",
@@ -311,6 +324,6 @@
    ]
   }
  ],
- "total": 47,
- "ready": 47
+ "total": 48,
+ "ready": 48
 }
