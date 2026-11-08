@@ -6,48 +6,6 @@
    "code": "jiken",
    "items": [
     {
-     "no": "129",
-     "title": "編集用",
-     "slug": "jiken-129",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-129/"
-    },
-    {
-     "no": "130",
-     "title": "編集用",
-     "slug": "jiken-130",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-130/"
-    },
-    {
-     "no": "131",
-     "title": "編集用",
-     "slug": "jiken-131",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-131/"
-    },
-    {
-     "no": "132",
-     "title": "編集用",
-     "slug": "jiken-132",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-132/"
-    },
-    {
-     "no": "133",
-     "title": "編集用",
-     "slug": "jiken-133",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-133/"
-    },
-    {
-     "no": "134",
-     "title": "編集用",
-     "slug": "jiken-134",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-134/"
-    },
-    {
-     "no": "135",
-     "title": "編集用",
-     "slug": "jiken-135",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-135/"
-    },
-    {
      "no": "136",
      "title": "編集用",
      "slug": "jiken-136",
@@ -207,42 +165,6 @@
    "code": "saigai",
    "items": [
     {
-     "no": "25",
-     "title": "ep025",
-     "slug": "saigai-ep025",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep025/"
-    },
-    {
-     "no": "26",
-     "title": "ep026",
-     "slug": "saigai-ep026",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep026/"
-    },
-    {
-     "no": "27",
-     "title": "ep027",
-     "slug": "saigai-ep027",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep027/"
-    },
-    {
-     "no": "28",
-     "title": "ep028",
-     "slug": "saigai-ep028",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep028/"
-    },
-    {
-     "no": "29",
-     "title": "ep029",
-     "slug": "saigai-ep029",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep029/"
-    },
-    {
-     "no": "30",
-     "title": "ep030",
-     "slug": "saigai-ep030",
-     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep030/"
-    },
-    {
      "no": "31",
      "title": "ep031",
      "slug": "saigai-ep031",
@@ -360,6 +282,6 @@
    ]
   }
  ],
- "total": 54,
- "ready": 54
+ "total": 41,
+ "ready": 41
 }
