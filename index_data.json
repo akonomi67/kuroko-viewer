@@ -227,6 +227,19 @@
    ]
   },
   {
+   "channel": "高校野球の歴史ちゃんねる",
+   "label": "高校野球の歴史ちゃんねる",
+   "code": "koukouyakyu",
+   "items": [
+    {
+     "no": "42",
+     "title": "042_編集用",
+     "slug": "koukouyakyu-042",
+     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-042/"
+    }
+   ]
+  },
+  {
    "channel": "となりの車屋さん",
    "label": "となりの車屋さん",
    "code": "kuruma",
@@ -276,6 +289,6 @@
    ]
   }
  ],
- "total": 40,
- "ready": 33
+ "total": 41,
+ "ready": 34
 }
