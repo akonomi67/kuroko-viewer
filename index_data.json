@@ -125,6 +125,25 @@
      "title": "編集用",
      "slug": "showa-279",
      "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-279/"
+    },
+    {
+     "no": "280",
+     "title": "編集用",
+     "slug": "showa-280",
+     "url": null
+    }
+   ]
+  },
+  {
+   "channel": "たぬきの2chお金スレまとめ",
+   "label": "たぬき",
+   "code": "tanuki",
+   "items": [
+    {
+     "no": "131",
+     "title": "バブル入社の当たり前_完成2",
+     "slug": "tanuki-131",
+     "url": null
     }
    ]
   },
@@ -133,36 +152,6 @@
    "label": "恋愛辞典",
    "code": "renai",
    "items": [
-    {
-     "no": "91",
-     "title": "091_気になる所が別_恋人の昔の恋が気になる理由は男女で別のところにある",
-     "slug": "renai-091",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-091/"
-    },
-    {
-     "no": "92",
-     "title": "092_笑いの意味が違う_面白い人が好きの中身は男女でここまで違う",
-     "slug": "renai-092",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-092/"
-    },
-    {
-     "no": "93",
-     "title": "093_相談の順番が逆_恋の悩みを話す相手とタイミングは男女で逆",
-     "slug": "renai-093",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-093/"
-    },
-    {
-     "no": "94",
-     "title": "094_男女の友情は成立する_答えが男女で分かれる理由",
-     "slug": "renai-094",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-094/"
-    },
-    {
-     "no": "95",
-     "title": "095_呼び方が変わる日_名前の呼び方を変える意味は男女でまるで違う",
-     "slug": "renai-095",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-095/"
-    },
     {
      "no": "96",
      "title": "096_仲が続く夫婦の5対1は_ほめ言葉の回数ではなかった",
@@ -232,63 +221,26 @@
    "code": "koukouyakyu",
    "items": [
     {
+     "no": "41",
+     "title": "041_編集用",
+     "slug": "koukouyakyu-041",
+     "url": null
+    },
+    {
      "no": "42",
      "title": "042_編集用",
      "slug": "koukouyakyu-042",
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-042/"
-    }
-   ]
-  },
-  {
-   "channel": "となりの車屋さん",
-   "label": "となりの車屋さん",
-   "code": "kuruma",
-   "items": [
-    {
-     "no": "101",
-     "title": "ハスラーとタフトどっち",
-     "slug": "kuruma-101",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-101/"
     },
     {
-     "no": "102",
-     "title": "小さな高級車の一台",
-     "slug": "kuruma-102",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-102/"
-    },
-    {
-     "no": "103",
-     "title": "幅で選ぶ普通車5台",
-     "slug": "kuruma-103",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-103/"
-    },
-    {
-     "no": "104",
-     "title": "サポカー限定で乗る一台",
-     "slug": "kuruma-104",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-104/"
-    },
-    {
-     "no": "105",
-     "title": "遠出が多いかたの一台",
-     "slug": "kuruma-105",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-105/"
-    },
-    {
-     "no": "106",
-     "title": "一人で近所だけの一台",
-     "slug": "kuruma-106",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-106/"
-    },
-    {
-     "no": "107",
-     "title": "軽のターボは要るか",
-     "slug": "kuruma-107",
-     "url": "https://akonomi67.github.io/kuroko-viewer-kuruma/kuruma-107/"
+     "no": "43",
+     "title": "043_編集用",
+     "slug": "koukouyakyu-043",
+     "url": null
     }
    ]
   }
  ],
- "total": 41,
- "ready": 34
+ "total": 33,
+ "ready": 22
 }
