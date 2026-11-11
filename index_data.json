@@ -114,6 +114,12 @@
      "title": "バブル入社の当たり前_完成2",
      "slug": "tanuki-131",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-131/"
+    },
+    {
+     "no": "132",
+     "title": "ひとりの老後の住まい_完成2",
+     "slug": "tanuki-132",
+     "url": null
     }
    ]
   },
@@ -219,10 +225,16 @@
      "title": "043_編集用",
      "slug": "koukouyakyu-043",
      "url": null
+    },
+    {
+     "no": "44",
+     "title": "044_編集用",
+     "slug": "koukouyakyu-044",
+     "url": null
     }
    ]
   }
  ],
- "total": 30,
+ "total": 32,
  "ready": 19
 }
