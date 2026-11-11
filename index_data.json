@@ -73,36 +73,6 @@
    "code": "showa",
    "items": [
     {
-     "no": "271",
-     "title": "編集用",
-     "slug": "showa-271",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-271/"
-    },
-    {
-     "no": "272",
-     "title": "編集用",
-     "slug": "showa-272",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-272/"
-    },
-    {
-     "no": "273",
-     "title": "編集用",
-     "slug": "showa-273",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-273/"
-    },
-    {
-     "no": "274",
-     "title": "編集用",
-     "slug": "showa-274",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-274/"
-    },
-    {
-     "no": "275",
-     "title": "編集用",
-     "slug": "showa-275",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-275/"
-    },
-    {
      "no": "276",
      "title": "編集用",
      "slug": "showa-276",
@@ -201,6 +171,12 @@
      "url": null
     },
     {
+     "no": "104",
+     "title": "つらい話の聞き方だけではなかった_うれしい報告の受け止め方",
+     "slug": "renai-104",
+     "url": null
+    },
+    {
      "no": "105",
      "title": "研究所の関係の家は_けんかの技術ではなく相手を知る階から始まっていた",
      "slug": "renai-105",
@@ -247,6 +223,6 @@
    ]
   }
  ],
- "total": 34,
- "ready": 24
+ "total": 30,
+ "ready": 19
 }
