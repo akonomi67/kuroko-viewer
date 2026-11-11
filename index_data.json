@@ -132,6 +132,12 @@
      "title": "同い年の貯めどき_完成2",
      "slug": "tanuki-133",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-133/"
+    },
+    {
+     "no": "134",
+     "title": "早期退職の5年後_完成2",
+     "slug": "tanuki-134",
+     "url": null
     }
    ]
   },
@@ -150,7 +156,7 @@
      "no": "97",
      "title": "097_けんかを壊す話し方は4つ_いちばん危ないのは軽蔑だった",
      "slug": "renai-097",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-097/"
     },
     {
      "no": "98",
@@ -214,9 +220,33 @@
      "url": null
     },
     {
+     "no": "33",
+     "title": "ep033",
+     "slug": "uchu-ep033",
+     "url": null
+    },
+    {
      "no": "34",
      "title": "ep034",
      "slug": "uchu-ep034",
+     "url": null
+    },
+    {
+     "no": "35",
+     "title": "ep035",
+     "slug": "uchu-ep035",
+     "url": null
+    },
+    {
+     "no": "36",
+     "title": "ep036",
+     "slug": "uchu-ep036",
+     "url": null
+    },
+    {
+     "no": "37",
+     "title": "ep037",
+     "slug": "uchu-ep037",
      "url": null
     }
    ]
@@ -278,6 +308,6 @@
    ]
   }
  ],
- "total": 38,
- "ready": 21
+ "total": 43,
+ "ready": 22
 }
