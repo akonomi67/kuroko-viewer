@@ -130,7 +130,7 @@
      "no": "280",
      "title": "編集用",
      "slug": "showa-280",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-280/"
     }
    ]
   },
@@ -199,6 +199,12 @@
      "title": "譲るではない_相手の見方を検討のテーブルに乗せられるか",
      "slug": "renai-103",
      "url": null
+    },
+    {
+     "no": "105",
+     "title": "研究所の関係の家は_けんかの技術ではなく相手を知る階から始まっていた",
+     "slug": "renai-105",
+     "url": null
     }
    ]
   },
@@ -241,6 +247,6 @@
    ]
   }
  ],
- "total": 33,
- "ready": 22
+ "total": 34,
+ "ready": 23
 }
