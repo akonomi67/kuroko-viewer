@@ -235,7 +235,7 @@
      "no": "34",
      "title": "ep034",
      "slug": "uchu-ep034",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep034/"
     },
     {
      "no": "35",
@@ -310,10 +310,16 @@
      "title": "046_編集用",
      "slug": "koukouyakyu-046",
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-046/"
+    },
+    {
+     "no": "47",
+     "title": "047_編集用",
+     "slug": "koukouyakyu-047",
+     "url": null
     }
    ]
   }
  ],
- "total": 44,
- "ready": 37
+ "total": 45,
+ "ready": 38
 }
