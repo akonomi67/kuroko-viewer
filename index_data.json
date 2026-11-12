@@ -107,6 +107,12 @@
      "title": "編集用",
      "slug": "showa-281",
      "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-281/"
+    },
+    {
+     "no": "282",
+     "title": "編集用",
+     "slug": "showa-282",
+     "url": null
     }
    ]
   },
@@ -143,6 +149,18 @@
      "no": "135",
      "title": "免除の追納10年_完成2",
      "slug": "tanuki-135",
+     "url": null
+    },
+    {
+     "no": "136",
+     "title": "免除と猶予の入り方_完成2",
+     "slug": "tanuki-136",
+     "url": null
+    },
+    {
+     "no": "137",
+     "title": "任意継続の20日_完成2",
+     "slug": "tanuki-137",
      "url": null
     }
    ]
@@ -326,6 +344,6 @@
    ]
   }
  ],
- "total": 46,
+ "total": 49,
  "ready": 42
 }
