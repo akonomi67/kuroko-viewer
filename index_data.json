@@ -149,7 +149,7 @@
      "no": "135",
      "title": "免除の追納10年_完成2",
      "slug": "tanuki-135",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-135/"
     },
     {
      "no": "136",
@@ -161,6 +161,12 @@
      "no": "137",
      "title": "任意継続の20日_完成2",
      "slug": "tanuki-137",
+     "url": null
+    },
+    {
+     "no": "138",
+     "title": "贈与110万は受ける側_完成2",
+     "slug": "tanuki-138",
      "url": null
     }
    ]
@@ -344,6 +350,6 @@
    ]
   }
  ],
- "total": 49,
- "ready": 43
+ "total": 50,
+ "ready": 44
 }
