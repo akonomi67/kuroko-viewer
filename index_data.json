@@ -143,6 +143,12 @@
      "title": "編集用",
      "slug": "showa-282",
      "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-282/"
+    },
+    {
+     "no": "287",
+     "title": "編集用",
+     "slug": "showa-287",
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-287/"
     }
    ]
   },
@@ -385,6 +391,12 @@
      "title": "関係が続くかは_いまの満足だけでは決まらなかった",
      "slug": "renai-111",
      "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-111/"
+    },
+    {
+     "no": "113",
+     "title": "親密さの中心は_上手な話し方ではなく_分かってもらえたと感じられることだった",
+     "slug": "renai-113",
+     "url": null
     }
    ]
   },
@@ -538,10 +550,16 @@
      "title": "044_編集用",
      "slug": "koukouyakyu-044",
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-044/"
+    },
+    {
+     "no": "45",
+     "title": "045_編集用",
+     "slug": "koukouyakyu-045",
+     "url": null
     }
    ]
   }
  ],
- "total": 82,
- "ready": 77
+ "total": 85,
+ "ready": 78
 }
