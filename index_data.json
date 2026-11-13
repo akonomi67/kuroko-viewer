@@ -257,7 +257,7 @@
      "no": "148",
      "title": "再雇用の給付が上限10%に_完成2",
      "slug": "tanuki-148",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-148/"
     },
     {
      "no": "149",
@@ -366,6 +366,12 @@
      "no": "108",
      "title": "なくては困るものが男女で違ったのは_10のうち2つだけだった",
      "slug": "renai-108",
+     "url": null
+    },
+    {
+     "no": "109",
+     "title": "片づかないけんかで気持ちが下がりにくかったのは_関係は育つと思う人だった",
+     "slug": "renai-109",
      "url": null
     }
    ]
@@ -512,6 +518,6 @@
    ]
   }
  ],
- "total": 77,
- "ready": 52
+ "total": 78,
+ "ready": 53
 }
