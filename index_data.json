@@ -258,6 +258,30 @@
      "title": "再雇用の給付が上限10%に_完成2",
      "slug": "tanuki-148",
      "url": null
+    },
+    {
+     "no": "149",
+     "title": "相続登記の3年_完成2",
+     "slug": "tanuki-149",
+     "url": null
+    },
+    {
+     "no": "150",
+     "title": "離婚の年金分割5年_完成2",
+     "slug": "tanuki-150",
+     "url": null
+    },
+    {
+     "no": "151",
+     "title": "会社都合と国保の3割_完成2",
+     "slug": "tanuki-151",
+     "url": null
+    },
+    {
+     "no": "152",
+     "title": "省エネ基準に合わない新築の減税_完成2",
+     "slug": "tanuki-152",
+     "url": null
     }
    ]
   },
@@ -336,6 +360,12 @@
      "no": "107",
      "title": "恋人の稼ぎを重く見たのは_37のうち36で女性のほうだった",
      "slug": "renai-107",
+     "url": null
+    },
+    {
+     "no": "108",
+     "title": "なくては困るものが男女で違ったのは_10のうち2つだけだった",
+     "slug": "renai-108",
      "url": null
     }
    ]
@@ -468,6 +498,12 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-040/"
     },
     {
+     "no": "41",
+     "title": "041_編集用",
+     "slug": "koukouyakyu-041",
+     "url": null
+    },
+    {
      "no": "42",
      "title": "042_編集用",
      "slug": "koukouyakyu-042",
@@ -476,6 +512,6 @@
    ]
   }
  ],
- "total": 71,
+ "total": 77,
  "ready": 52
 }
