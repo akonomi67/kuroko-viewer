@@ -240,6 +240,12 @@
      "title": "生前贈与の7年_完成2",
      "slug": "tanuki-145",
      "url": null
+    },
+    {
+     "no": "147",
+     "title": "育児の時短で給料の1割_完成2",
+     "slug": "tanuki-147",
+     "url": null
     }
    ]
   },
@@ -448,10 +454,16 @@
      "title": "040_編集用",
      "slug": "koukouyakyu-040",
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-040/"
+    },
+    {
+     "no": "42",
+     "title": "042_編集用",
+     "slug": "koukouyakyu-042",
+     "url": null
     }
    ]
   }
  ],
- "total": 67,
+ "total": 69,
  "ready": 51
 }
