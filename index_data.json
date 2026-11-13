@@ -228,6 +228,12 @@
      "title": "自己都合の給付制限1か月_完成2",
      "slug": "tanuki-143",
      "url": null
+    },
+    {
+     "no": "144",
+     "title": "新築の固定資産税3年_完成2",
+     "slug": "tanuki-144",
+     "url": null
     }
    ]
   },
@@ -295,6 +301,12 @@
      "title": "研究所の関係の家は_けんかの技術ではなく相手を知る階から始まっていた",
      "slug": "renai-105",
      "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-105/"
+    },
+    {
+     "no": "106",
+     "title": "けんかで黙り込む人は_男のほうが多かった_研究所は85%と記す",
+     "slug": "renai-106",
+     "url": null
     }
    ]
   },
@@ -428,6 +440,6 @@
    ]
   }
  ],
- "total": 63,
+ "total": 65,
  "ready": 48
 }
