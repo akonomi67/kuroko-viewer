@@ -167,6 +167,12 @@
      "title": "編集用",
      "slug": "showa-289",
      "url": null
+    },
+    {
+     "no": "290",
+     "title": "編集用",
+     "slug": "showa-290",
+     "url": null
     }
    ]
   },
@@ -227,7 +233,7 @@
      "no": "139",
      "title": "退職所得控除の20年_完成2",
      "slug": "tanuki-139",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-139/"
     },
     {
      "no": "140",
@@ -420,7 +426,7 @@
      "no": "115",
      "title": "相手のなりたい自分を引き出す人_研究はそれを彫刻にたとえた",
      "slug": "renai-115",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-115/"
     }
    ]
   },
@@ -614,6 +620,6 @@
    ]
   }
  ],
- "total": 94,
- "ready": 88
+ "total": 95,
+ "ready": 90
 }
