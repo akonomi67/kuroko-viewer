@@ -151,6 +151,12 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-283/"
     },
     {
+     "no": "284",
+     "title": "編集用",
+     "slug": "showa-284",
+     "url": null
+    },
+    {
      "no": "286",
      "title": "編集用",
      "slug": "showa-286",
@@ -615,11 +621,11 @@
      "no": "50",
      "title": "050_編集用",
      "slug": "koukouyakyu-050",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-050/"
     }
    ]
   }
  ],
- "total": 95,
- "ready": 92
+ "total": 96,
+ "ready": 93
 }
