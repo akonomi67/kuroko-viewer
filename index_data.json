@@ -6,36 +6,6 @@
    "code": "jiken",
    "items": [
     {
-     "no": "136",
-     "title": "編集用",
-     "slug": "jiken-136",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-136/"
-    },
-    {
-     "no": "137",
-     "title": "編集用",
-     "slug": "jiken-137",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-137/"
-    },
-    {
-     "no": "138",
-     "title": "編集用",
-     "slug": "jiken-138",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-138/"
-    },
-    {
-     "no": "139",
-     "title": "編集用",
-     "slug": "jiken-139",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-139/"
-    },
-    {
-     "no": "140",
-     "title": "編集用",
-     "slug": "jiken-140",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-140/"
-    },
-    {
      "no": "141",
      "title": "編集用",
      "slug": "jiken-141",
@@ -102,30 +72,6 @@
    "label": "昭和プレイバック",
    "code": "showa",
    "items": [
-    {
-     "no": "276",
-     "title": "編集用",
-     "slug": "showa-276",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-276/"
-    },
-    {
-     "no": "277",
-     "title": "編集用",
-     "slug": "showa-277",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-277/"
-    },
-    {
-     "no": "278",
-     "title": "編集用",
-     "slug": "showa-278",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-278/"
-    },
-    {
-     "no": "279",
-     "title": "編集用",
-     "slug": "showa-279",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-279/"
-    },
     {
      "no": "280",
      "title": "編集用",
@@ -326,36 +272,6 @@
    "label": "恋愛辞典",
    "code": "renai",
    "items": [
-    {
-     "no": "96",
-     "title": "096_仲が続く夫婦の5対1は_ほめ言葉の回数ではなかった",
-     "slug": "renai-096",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-096/"
-    },
-    {
-     "no": "97",
-     "title": "097_けんかを壊す話し方は4つ_いちばん危ないのは軽蔑だった",
-     "slug": "renai-097",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-097/"
-    },
-    {
-     "no": "98",
-     "title": "098_36の質問_恋が生まれるは実験の結論ではなかった",
-     "slug": "renai-098",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-098/"
-    },
-    {
-     "no": "99",
-     "title": "099_仲が長く続く夫婦の土台は_けんかの少なさではなかった",
-     "slug": "renai-099",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-099/"
-    },
-    {
-     "no": "100",
-     "title": "けんかの終わりは始まり方で決まる_研究所は最初の一句を見ていた",
-     "slug": "renai-100",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-100/"
-    },
     {
      "no": "101",
      "title": "うまくいく夫婦の修復は_特別な言葉ではなかった_届くかどうかだった",
@@ -626,6 +542,6 @@
    ]
   }
  ],
- "total": 96,
- "ready": 94
+ "total": 82,
+ "ready": 80
 }
