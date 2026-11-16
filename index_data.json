@@ -411,6 +411,12 @@
      "title": "ep032",
      "slug": "saigai-ep032",
      "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep032/"
+    },
+    {
+     "no": "33",
+     "title": "ep033",
+     "slug": "saigai-ep033",
+     "url": null
     }
    ]
   },
@@ -542,6 +548,6 @@
    ]
   }
  ],
- "total": 82,
+ "total": 83,
  "ready": 82
 }
