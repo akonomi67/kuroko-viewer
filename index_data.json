@@ -396,36 +396,6 @@
    "code": "koukouyakyu",
    "items": [
     {
-     "no": "31",
-     "title": "031_編集用",
-     "slug": "koukouyakyu-031",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-031/"
-    },
-    {
-     "no": "32",
-     "title": "032_編集用",
-     "slug": "koukouyakyu-032",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-032/"
-    },
-    {
-     "no": "33",
-     "title": "033_編集用",
-     "slug": "koukouyakyu-033",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-033/"
-    },
-    {
-     "no": "34",
-     "title": "034_編集用",
-     "slug": "koukouyakyu-034",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-034/"
-    },
-    {
-     "no": "35",
-     "title": "035_編集用",
-     "slug": "koukouyakyu-035",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-035/"
-    },
-    {
      "no": "36",
      "title": "036_編集用",
      "slug": "koukouyakyu-036",
@@ -518,6 +488,6 @@
    ]
   }
  ],
- "total": 78,
- "ready": 78
+ "total": 73,
+ "ready": 73
 }
