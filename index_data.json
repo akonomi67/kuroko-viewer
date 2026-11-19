@@ -125,6 +125,12 @@
      "title": "編集用",
      "slug": "showa-294",
      "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-294/"
+    },
+    {
+     "no": "295",
+     "title": "編集用",
+     "slug": "showa-295",
+     "url": null
     }
    ]
   },
@@ -429,6 +435,12 @@
      "title": "ep035",
      "slug": "saigai-ep035",
      "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep035/"
+    },
+    {
+     "no": "36",
+     "title": "ep036",
+     "slug": "saigai-ep036",
+     "url": "https://akonomi67.github.io/kuroko-viewer-saigai/saigai-ep036/"
     }
    ]
   },
@@ -548,6 +560,6 @@
    ]
   }
  ],
- "total": 83,
- "ready": 83
+ "total": 85,
+ "ready": 84
 }
