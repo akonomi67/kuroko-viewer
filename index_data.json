@@ -398,6 +398,12 @@
      "title": "ep037",
      "slug": "uchu-ep037",
      "url": "https://akonomi67.github.io/kuroko-viewer-uchu/uchu-ep037/"
+    },
+    {
+     "no": "38",
+     "title": "ep038",
+     "slug": "uchu-ep038",
+     "url": null
     }
    ]
   },
@@ -560,6 +566,6 @@
    ]
   }
  ],
- "total": 85,
+ "total": 86,
  "ready": 84
 }
