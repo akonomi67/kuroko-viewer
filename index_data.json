@@ -34,6 +34,12 @@
      "title": "編集用",
      "slug": "jiken-150",
      "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-150/"
+    },
+    {
+     "no": "151",
+     "title": "編集用",
+     "slug": "jiken-151",
+     "url": null
     }
    ]
   },
@@ -216,6 +222,12 @@
      "title": "ゼット世代の口座晒し_完成2",
      "slug": "tanuki-153",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-153/"
+    },
+    {
+     "no": "154",
+     "title": "離婚後の養育費と財産分与_完成2",
+     "slug": "tanuki-154",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-154/"
     }
    ]
   },
@@ -506,6 +518,6 @@
    ]
   }
  ],
- "total": 76,
- "ready": 74
+ "total": 78,
+ "ready": 75
 }
