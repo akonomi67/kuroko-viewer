@@ -39,7 +39,7 @@
      "no": "151",
      "title": "編集用",
      "slug": "jiken-151",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-151/"
     },
     {
      "no": "152",
@@ -240,6 +240,12 @@
      "title": "遺産を受け継いだ5年後_完成2",
      "slug": "tanuki-155",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-155/"
+    },
+    {
+     "no": "156",
+     "title": "結婚後に出てきた相手の借金_完成2",
+     "slug": "tanuki-156",
+     "url": null
     }
    ]
   },
@@ -530,6 +536,6 @@
    ]
   }
  ],
- "total": 80,
- "ready": 76
+ "total": 81,
+ "ready": 77
 }
