@@ -43,42 +43,6 @@
    "code": "showa",
    "items": [
     {
-     "no": "280",
-     "title": "編集用",
-     "slug": "showa-280",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-280/"
-    },
-    {
-     "no": "281",
-     "title": "編集用",
-     "slug": "showa-281",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-281/"
-    },
-    {
-     "no": "282",
-     "title": "編集用",
-     "slug": "showa-282",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-282/"
-    },
-    {
-     "no": "283",
-     "title": "編集用",
-     "slug": "showa-283",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-283/"
-    },
-    {
-     "no": "284",
-     "title": "編集用",
-     "slug": "showa-284",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-284/"
-    },
-    {
-     "no": "285",
-     "title": "編集用",
-     "slug": "showa-285",
-     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-285/"
-    },
-    {
      "no": "286",
      "title": "編集用",
      "slug": "showa-286",
@@ -246,6 +210,12 @@
      "title": "省エネ基準に合わない新築の減税_完成2",
      "slug": "tanuki-152",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-152/"
+    },
+    {
+     "no": "153",
+     "title": "ゼット世代の口座晒し_完成2",
+     "slug": "tanuki-153",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-153/"
     }
    ]
   },
@@ -254,66 +224,6 @@
    "label": "恋愛辞典",
    "code": "renai",
    "items": [
-    {
-     "no": "101",
-     "title": "うまくいく夫婦の修復は_特別な言葉ではなかった_届くかどうかだった",
-     "slug": "renai-101",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-101/"
-    },
-    {
-     "no": "102",
-     "title": "けんか中に頭が真っ白になるなら_研究所は20分の中断を勧めていた",
-     "slug": "renai-102",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-102/"
-    },
-    {
-     "no": "103",
-     "title": "譲るではない_相手の見方を検討のテーブルに乗せられるか",
-     "slug": "renai-103",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-103/"
-    },
-    {
-     "no": "104",
-     "title": "つらい話の聞き方だけではなかった_うれしい報告の受け止め方",
-     "slug": "renai-104",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-104/"
-    },
-    {
-     "no": "105",
-     "title": "研究所の関係の家は_けんかの技術ではなく相手を知る階から始まっていた",
-     "slug": "renai-105",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-105/"
-    },
-    {
-     "no": "106",
-     "title": "けんかで黙り込む人は_男のほうが多かった_研究所は85%と記す",
-     "slug": "renai-106",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-106/"
-    },
-    {
-     "no": "107",
-     "title": "恋人の稼ぎを重く見たのは_37のうち36で女性のほうだった",
-     "slug": "renai-107",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-107/"
-    },
-    {
-     "no": "108",
-     "title": "なくては困るものが男女で違ったのは_10のうち2つだけだった",
-     "slug": "renai-108",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-108/"
-    },
-    {
-     "no": "109",
-     "title": "片づかないけんかで気持ちが下がりにくかったのは_関係は育つと思う人だった",
-     "slug": "renai-109",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-109/"
-    },
-    {
-     "no": "110",
-     "title": "相手に合わせた日の気持ちは_合わせた理由で分かれた",
-     "slug": "renai-110",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-110/"
-    },
     {
      "no": "111",
      "title": "関係が続くかは_いまの満足だけでは決まらなかった",
@@ -596,6 +506,6 @@
    ]
   }
  ],
- "total": 91,
- "ready": 89
+ "total": 76,
+ "ready": 74
 }
