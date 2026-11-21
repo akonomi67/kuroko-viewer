@@ -40,6 +40,12 @@
      "title": "編集用",
      "slug": "jiken-151",
      "url": null
+    },
+    {
+     "no": "152",
+     "title": "編集用",
+     "slug": "jiken-152",
+     "url": null
     }
    ]
   },
@@ -228,6 +234,12 @@
      "title": "離婚後の養育費と財産分与_完成2",
      "slug": "tanuki-154",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-154/"
+    },
+    {
+     "no": "155",
+     "title": "遺産を受け継いだ5年後_完成2",
+     "slug": "tanuki-155",
+     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-155/"
     }
    ]
   },
@@ -518,6 +530,6 @@
    ]
   }
  ],
- "total": 78,
- "ready": 75
+ "total": 80,
+ "ready": 76
 }
