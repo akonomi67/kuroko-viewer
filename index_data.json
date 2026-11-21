@@ -63,7 +63,7 @@
      "no": "155",
      "title": "編集用",
      "slug": "jiken-155",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-155/"
     }
    ]
   },
@@ -270,6 +270,12 @@
      "title": "全世界株を5年積み立てた口座_完成2",
      "slug": "tanuki-157",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-157/"
+    },
+    {
+     "no": "158",
+     "title": "医療と介護で働く年収と貯金_完成2",
+     "slug": "tanuki-158",
+     "url": null
     }
    ]
   },
@@ -450,66 +456,6 @@
    "code": "koukouyakyu",
    "items": [
     {
-     "no": "36",
-     "title": "036_編集用",
-     "slug": "koukouyakyu-036",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-036/"
-    },
-    {
-     "no": "37",
-     "title": "037_編集用",
-     "slug": "koukouyakyu-037",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-037/"
-    },
-    {
-     "no": "38",
-     "title": "038_編集用",
-     "slug": "koukouyakyu-038",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-038/"
-    },
-    {
-     "no": "39",
-     "title": "039_編集用",
-     "slug": "koukouyakyu-039",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-039/"
-    },
-    {
-     "no": "40",
-     "title": "040_編集用",
-     "slug": "koukouyakyu-040",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-040/"
-    },
-    {
-     "no": "41",
-     "title": "041_編集用",
-     "slug": "koukouyakyu-041",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-041/"
-    },
-    {
-     "no": "42",
-     "title": "042_編集用",
-     "slug": "koukouyakyu-042",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-042/"
-    },
-    {
-     "no": "43",
-     "title": "043_編集用",
-     "slug": "koukouyakyu-043",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-043/"
-    },
-    {
-     "no": "44",
-     "title": "044_編集用",
-     "slug": "koukouyakyu-044",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-044/"
-    },
-    {
-     "no": "45",
-     "title": "045_編集用",
-     "slug": "koukouyakyu-045",
-     "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-045/"
-    },
-    {
      "no": "46",
      "title": "046_編集用",
      "slug": "koukouyakyu-046",
@@ -560,6 +506,6 @@
    ]
   }
  ],
- "total": 85,
- "ready": 82
+ "total": 76,
+ "ready": 73
 }
