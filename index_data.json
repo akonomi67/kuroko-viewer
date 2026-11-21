@@ -64,6 +64,12 @@
      "title": "編集用",
      "slug": "jiken-155",
      "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-155/"
+    },
+    {
+     "no": "156",
+     "title": "編集用",
+     "slug": "jiken-156",
+     "url": null
     }
    ]
   },
@@ -276,6 +282,12 @@
      "title": "医療と介護で働く年収と貯金_完成2",
      "slug": "tanuki-158",
      "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-158/"
+    },
+    {
+     "no": "159",
+     "title": "高卒と大卒の40歳_完成2",
+     "slug": "tanuki-159",
+     "url": null
     }
    ]
   },
@@ -506,6 +518,6 @@
    ]
   }
  ],
- "total": 76,
+ "total": 78,
  "ready": 74
 }
