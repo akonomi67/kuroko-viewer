@@ -152,36 +152,6 @@
    "code": "tanuki",
    "items": [
     {
-     "no": "136",
-     "title": "免除と猶予の入り方_完成2",
-     "slug": "tanuki-136",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-136/"
-    },
-    {
-     "no": "137",
-     "title": "任意継続の20日_完成2",
-     "slug": "tanuki-137",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-137/"
-    },
-    {
-     "no": "138",
-     "title": "贈与110万は受ける側_完成2",
-     "slug": "tanuki-138",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-138/"
-    },
-    {
-     "no": "139",
-     "title": "退職所得控除の20年_完成2",
-     "slug": "tanuki-139",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-139/"
-    },
-    {
-     "no": "140",
-     "title": "60歳からの任意加入_完成2",
-     "slug": "tanuki-140",
-     "url": "https://akonomi67.github.io/kuroko-viewer-tanuki/tanuki-140/"
-    },
-    {
      "no": "141",
      "title": "繰上げ返済で消える減税_完成2",
      "slug": "tanuki-141",
@@ -542,6 +512,6 @@
    ]
   }
  ],
- "total": 82,
- "ready": 78
+ "total": 77,
+ "ready": 73
 }
