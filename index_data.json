@@ -70,7 +70,7 @@
      "no": "293",
      "title": "編集用",
      "slug": "showa-293",
-     "url": null
+     "url": "https://akonomi67.github.io/kuroko-viewer-showa/showa-293/"
     },
     {
      "no": "294",
@@ -170,36 +170,6 @@
    "label": "恋愛辞典",
    "code": "renai",
    "items": [
-    {
-     "no": "111",
-     "title": "関係が続くかは_いまの満足だけでは決まらなかった",
-     "slug": "renai-111",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-111/"
-    },
-    {
-     "no": "112",
-     "title": "ありがとうを1か月言い合う実験_効き目は相手がどう見えるかで変わった",
-     "slug": "renai-112",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-112/"
-    },
-    {
-     "no": "113",
-     "title": "親密さの中心は_上手な話し方ではなく_分かってもらえたと感じられることだった",
-     "slug": "renai-113",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-113/"
-    },
-    {
-     "no": "114",
-     "title": "悪いことを避けたい思いは_その日の満足には出ず_3か月後の相手に出た",
-     "slug": "renai-114",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-114/"
-    },
-    {
-     "no": "115",
-     "title": "相手のなりたい自分を引き出す人_研究はそれを彫刻にたとえた",
-     "slug": "renai-115",
-     "url": "https://akonomi67.github.io/kuroko-viewer-renai/renai-115/"
-    },
     {
      "no": "116",
      "title": "夫婦仲が下がり続けるのを止めたのは_けんかを第三者の目で書く年に21分だった",
@@ -362,6 +332,6 @@
    ]
   }
  ],
- "total": 52,
- "ready": 48
+ "total": 47,
+ "ready": 44
 }
