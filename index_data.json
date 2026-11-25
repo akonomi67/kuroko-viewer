@@ -396,8 +396,21 @@
      "url": "https://akonomi67.github.io/kuroko-viewer-koukouyakyu/koukouyakyu-053/"
     }
    ]
+  },
+  {
+   "channel": "となりの車屋さん",
+   "label": "となりの車屋さん",
+   "code": "kuruma",
+   "items": [
+    {
+     "no": "119",
+     "title": "スイフトとヤリスどっち",
+     "slug": "kuruma-119",
+     "url": null
+    }
+   ]
   }
  ],
- "total": 58,
+ "total": 59,
  "ready": 48
 }
