@@ -45,7 +45,7 @@
      "no": "157",
      "title": "編集用",
      "slug": "jiken-157",
-     "url": "https://akonomi67.github.io/kuroko-viewer-jiken/jiken-157/"
+     "url": null
     },
     {
      "no": "158",
@@ -453,5 +453,5 @@
   }
  ],
  "total": 67,
- "ready": 50
+ "ready": 49
 }
